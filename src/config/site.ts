@@ -10,7 +10,7 @@ export const SITE = {
   altitude: "2,196 m",
   // ChatGe chat widget (https://github.com/ImpartialTruth/ChatGe)
   chatWidget: {
-    src: "https://chatge-production.up.railway.app/widget.js",
+    src: "https://api-production-9b5dd6fb.up.railway.app/widget.js",
     botId: "d0a2ea42-32ad-438d-88c6-21155184244d",
   },
   social: {
