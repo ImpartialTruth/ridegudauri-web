@@ -9,7 +9,7 @@ export default function FloatingWhatsApp({ label }: { label: string }) {
       rel="noopener noreferrer"
       aria-label={label}
       title={label}
-      className="pulse-ring fixed bottom-5 right-5 z-40 grid h-14 w-14 place-items-center rounded-full bg-whatsapp text-white shadow-[var(--shadow-lift)] transition-transform hover:scale-110 sm:bottom-7 sm:right-7"
+      className="pulse-ring fixed bottom-5 left-5 z-40 grid h-14 w-14 place-items-center rounded-full bg-whatsapp text-white shadow-[var(--shadow-lift)] transition-transform hover:scale-110 sm:bottom-7 sm:left-7"
     >
       <WhatsApp width={28} height={28} />
     </a>

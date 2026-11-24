@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { notFound } from "next/navigation";
+import Script from "next/script";
 import { Montserrat, Noto_Sans_Georgian } from "next/font/google";
 import "../globals.css";
 import Header from "@/components/Header";
@@ -62,6 +63,8 @@ export default async function LocaleLayout({
         </main>
         <Footer locale={locale} />
         <FloatingWhatsApp label={t.contact.whatsapp} />
+        {/* ChatGe AI chat widget — renders its own button bottom-right */}
+        <Script src={SITE.chatWidget.src} data-bot-id={SITE.chatWidget.botId} strategy="lazyOnload" />
       </body>
     </html>
   );
