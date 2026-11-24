@@ -1,0 +1,2059 @@
+{
+ "generatedFrom": "kb/chunks.jsonl",
+ "crawled": "2026-11-24",
+ "locales": {
+  "en": {
+   "services": {
+    "ski-instructor": {
+     "title": "Ski Instructor",
+     "description": [
+      "At Ride Gudauri, we believe that learning to ski or snowboard should be more than just a lesson — it should be an unforgettable mountain experience. Located in the heart of the Greater Caucasus Mountains, we offer professional, certified instructors who make every session safe, enjoyable, and perfectly tailored to your level. Whether you’re a beginner taking your first turns, an intermediate rider improving technique, or an advanced skier looking for a challenge, our experienced instructors will help you progress with confidence. Every lesson is customized to your skills, goals, and pace, ensuring you make the most of your time on the slopes. Our team combines international certification, modern teaching methods, and years of local experience, making us one of the most trusted choices for ski and snowboard instruction in Gudauri, Georgia. Join us this winter and discover the perfect balance of professional guidance, safety, and fun — because with Ride Gudauri, every run is a step toward mastering the mountains.",
+      "When booking, you’ll be charged 20% of the session fee online to secure your spot. The remaining balance is paid in person with cash at the time of your appointment."
+     ],
+     "url": "https://ridegudauri.com/activity/ski-instructor/"
+    },
+    "snowmobile": {
+     "title": "Snowmobile",
+     "description": [
+      "Experience the thrill of a snowmobile adventure in Gudauri, guided by our experienced local instructors who ensure both your safety and enjoyment throughout the ride. Every tour is led by a professional guide who will show you the best scenic routes and assist you at all times. For safety reasons, two adults cannot ride on one snowmobile. If you prefer not to drive, our skilled guide can operate the snowmobile for you — all guides are trained to handle heavier loads safely and comfortably."
+     ],
+     "url": "https://ridegudauri.com/activity/snowmobile/"
+    },
+    "paragliding": {
+     "title": "Paragliding",
+     "description": [
+      "Experience the unforgettable thrill of paragliding over Gudauri — soaring above the breathtaking Greater Caucasus Mountains with our team of certified, experienced pilots. We make every journey safe, smooth, and truly unforgettable. Feel the wind, take in the panoramic mountain views, and enjoy the freedom of flight in one of Georgia’s most stunning locations.",
+      "Enjoy a breathtaking paragliding experience over Gudauri, offering panoramic views of the Greater Caucasus Mountains. Flight duration is 10–15 minutes, and the price includes a video of your flight and car service — if you land in a different location, our team will make sure you return safely and comfortably. Take flight and see Gudauri from a whole new perspective — an unforgettable adventure available year-round."
+     ],
+     "url": "https://ridegudauri.com/activity/paragliding/"
+    },
+    "quad-bike": {
+     "title": "Quad Bike",
+     "description": [
+      "Experience an exciting 1-hour off-road adventure through a scenic canyon, leading to a beautiful mountain lake with historic castle ruins along the way.",
+      "Drive the vehicle yourself while an experienced guide leads the route, ensuring a safe and comfortable journey.",
+      "Available year-round, this adventure is perfect for nature lovers and anyone looking to explore Gudauri’s stunning landscapes in a fun and exciting way."
+     ],
+     "url": "https://ridegudauri.com/activity/quad-bike/"
+    },
+    "rafting": {
+     "title": "Rafting",
+     "description": [
+      "Rafting is one of the most exciting summer adventures in Georgia, perfect for those who love nature and adrenaline. Starting from May, after the winter season ends, guests can join guided rafting tours surrounded by breathtaking mountain landscapes and the refreshing air of the Greater Caucasus.",
+      "Led by experienced guides, these tours are safe, fun, and suitable for both beginners and adventure enthusiasts. It’s the ideal summer activity for anyone seeking an unforgettable outdoor experience near Gudauri."
+     ],
+     "url": "https://ridegudauri.com/activity/rafting/"
+    },
+    "transfers-and-tours": {
+     "title": "Transfers and Tours",
+     "description": [
+      "Seamless transfers from Tbilisi to Gudauri’s slopes or the captivating landscapes of Kazbegi. Our curated tours reveal hidden gems in the Gudauri and Kazbegi regions."
+     ],
+     "url": "https://ridegudauri.com/activity/transfers-and-tours/"
+    }
+   },
+   "faq": [
+    {
+     "id": "01",
+     "category": "GENERAL",
+     "q": "How do I book activities with Ride Gudauri?",
+     "a": [
+      "Booking with Ride Gudauri is easy. Simply visit our website and fill out the reservation form with your preferred activity, date, and time. Our team will confirm your reservation details through email or phone."
+     ]
+    },
+    {
+     "id": "02",
+     "category": "GENERAL",
+     "q": "Can I book multiple activities in one reservation?",
+     "a": [
+      "Absolutely! You can book various activities, including skiing, paragliding, snowmobile, quad biking, in a single reservation. Our team will help coordinate schedules for a seamless experience."
+     ]
+    },
+    {
+     "id": "03",
+     "category": "GENERAL",
+     "q": "What should I wear and bring for my outdoor activities?",
+     "a": [
+      "Dress appropriately for the activity and weather conditions. For skiing, wear layers and bring waterproof clothing. If you’re paragliding, wear comfortable clothing. Specific requirements will be provided upon reservation."
+     ]
+    },
+    {
+     "id": "04",
+     "category": "GENERAL",
+     "q": "Is prior experience required for activities?",
+     "a": [
+      "No prior experience is necessary for most activities. Our certified instructors and guides cater to all skill levels, ensuring a safe and enjoyable experience for everyone."
+     ]
+    },
+    {
+     "id": "05",
+     "category": "GENERAL",
+     "q": "What happens in case of bad weather on the day of my reservation?",
+     "a": [
+      "Your safety is our priority. In case of unfavorable weather conditions, we may need to reschedule or, if necessary, cancel the activity. We’ll communicate any changes well in advance."
+     ]
+    },
+    {
+     "id": "06",
+     "category": "GENERAL",
+     "q": "Can I rent equipment from Ride Gudauri?",
+     "a": [
+      "Yes, we offer equipment rentals for various activities. Skiing, paragliding, and other necessary gear can be rented from our on-site facilities."
+     ]
+    },
+    {
+     "id": "07",
+     "category": "GENERAL",
+     "q": "How do I pay for my lesson, tour, or equipment rental?",
+     "a": [
+      "When you book online you pay a booking fee to secure your spot; the exact amount is shown in the booking form before you confirm. The remaining balance is paid in person at the meeting point before the activity begins. Please check with our team for any payment details specific to your reservation."
+     ]
+    },
+    {
+     "id": "08",
+     "category": "GENERAL",
+     "q": "Is there an age limit for activities?",
+     "a": [
+      "Ride Gudauri welcomes participants of all ages. Specific age requirements for each activity will be provided upon reservation."
+     ]
+    },
+    {
+     "id": "09",
+     "category": "GENERAL",
+     "q": "Can I bring my own equipment?",
+     "a": [
+      "Yes, you’re welcome to bring your own equipment. However, if you need to rent, we provide high-quality gear to ensure a comfortable and enjoyable experience."
+     ]
+    },
+    {
+     "id": "10",
+     "category": "GENERAL",
+     "q": "How do I get in touch with Ride Gudauri for additional questions or concerns?",
+     "a": [
+      "If you have any further inquiries, feel free to contact our team through the provided contact information on our website. We’re here to assist you and make your experience with Ride Gudauri memorable."
+     ]
+    },
+    {
+     "id": "11",
+     "category": "SKI SCHOOL",
+     "q": "Do I need to have any skiing experience to take lessons at Ride Gudauri?",
+     "a": [
+      "No prior experience is necessary! We cater to all skill levels, from complete beginners to advanced skiers. Our certified instructors will tailor lessons to your individual abilities."
+     ]
+    },
+    {
+     "id": "12",
+     "category": "SKI SCHOOL",
+     "q": "What level am I?",
+     "a": [
+      "Find out how to classify yourself to your instructor, and get your lessons started on the right foot. Knowing your level will help set the tone for your lesson, and kick your progression into high gear.",
+      "Beginner (Level 1): Description: This level is for individuals who have never skied before or have minimal experience. Skills: Learning how to put on and take off ski equipment. Mastering the basic stance and balance on skis. Learning to glide, make turns, and control speed on gentle slopes. Developing the ability to stop safely. Introduction to using ski lifts.",
+      "Intermediate (Level 2): Description: Participants at this level have basic skiing skills and are ready to progress to more challenging terrain. Skills: Improving turning skills on varied terrain. Building confidence on steeper slopes. Introduction to carving turns. Learning to ski parallel and link turns smoothly. Developing basic skills for handling different snow conditions.",
+      "Advanced Intermediate (Level 3): Description: Skiers at this level are comfortable on most intermediate slopes and are ready for more advanced techniques. Skills: Mastering parallel skiing on steeper slopes. Introduction to off-piste (ungroomed) terrain. Improving carving techniques. Refining pole usage for balance and turning. Building confidence in various snow conditions."
+     ]
+    },
+    {
+     "id": "13",
+     "category": "SKI SCHOOL",
+     "q": "Where is the meeting location for Ski/snowboard lesson?",
+     "a": [
+      "Ride Gudauri Ski School offers multiple meeting locations, including:",
+      "– At the top of the gondola lift, by the Ride Gudauri flag.",
+      "– At the bottom of the gondola lift, in front of Dunkin Donuts.",
+      "– Near the lift passes sales office at Hotel Marco Polo.",
+      "– On the slope by the Ride Gudauri flag near Hotel Gudauri Lodge.",
+      "– If you’re renting equipment from us, we’ll meet you next to Hotel Carpe Diem Gudauri, and you’ll go directly from there to the central lift.",
+      "Our team will contact you to agree on the point of meeting, taking into consideration your place of residence for added convenience."
+     ]
+    },
+    {
+     "id": "14",
+     "category": "SKI SCHOOL",
+     "q": "How do I pay for my lesson and equipment rental?",
+     "a": [
+      "When you book online you pay a booking fee to secure your spot; the exact amount is shown in the booking form before you confirm. The remaining balance is paid in person at the meeting point before the activity begins. Please check with our team for any payment details specific to your reservation."
+     ]
+    },
+    {
+     "id": "15",
+     "category": "SKI SCHOOL",
+     "q": "How do I get in touch with Ride Gudauri for additional questions or concerns?",
+     "a": [
+      "If you have any further inquiries, feel free to contact our team through the provided contact information on our website. We’re here to assist you and make your experience with Ride Gudauri memorable."
+     ]
+    },
+    {
+     "id": "16",
+     "category": "SKI SCHOOL",
+     "q": "What should I wear and bring for my ski lesson?",
+     "a": [
+      "Dress in layers with waterproof clothing, wear gloves, and bring goggles. Don’t forget to bring your ski boots if you have them. If you’re renting equipment, we have everything you need at our facilities."
+     ]
+    },
+    {
+     "id": "17",
+     "category": "SKI SCHOOL",
+     "q": "Can I rent ski equipment from Ride Gudauri?",
+     "a": [
+      "Yes, we offer ski equipment rentals. You can rent skis, boots, and poles from our on-site facilities. Our staff will ensure you have the right gear for a comfortable and enjoyable experience."
+     ]
+    },
+    {
+     "id": "18",
+     "category": "SKI SCHOOL",
+     "q": "What happens in case of bad weather on the day of my reservation?",
+     "a": [
+      "Your safety is our priority. In the event of unfavorable weather conditions, we may need to reschedule or, if necessary, cancel the activity. We’ll do our best to communicate any changes well in advance."
+     ]
+    },
+    {
+     "id": "19",
+     "category": "SKI SCHOOL",
+     "q": "How many ski lessons do I need?",
+     "a": [
+      "We highly recommend booking at least 4 lessons for everybody of any ability. This gives you enough time with the instructor to really focus on specific aspects of technique and improve your all-around skiing/snowboarding to build confidence in new terrain and have more fun on the mountain. Even highly advanced skiers and riders notice huge changes after 4 lessons with a professional instructor. Skiing and snowboarding are sports which you can never stop improving at, and the better you get, the more fun you have!"
+     ]
+    },
+    {
+     "id": "20",
+     "category": "SKI SCHOOL",
+     "q": "How far in advance do i need to book?",
+     "a": [
+      "As soon as possible! We highly recommend booking your ski or snowboard instructor as soon as you confirm the dates of your ski trip to Georgia. We are often fully booked over a month in advance for the February peak period."
+     ]
+    },
+    {
+     "id": "21",
+     "category": "SKI SCHOOL",
+     "q": "I want morning lessons but they are sold out, what do I do?",
+     "a": [
+      "There are a lot of benefits to snowboarding or skiing in Gudauri in the afternoon! The slopes are less crowded, the sun has warmed the snow to make it softer and easier to ski/snowboard on, everybody enjoys skiing more at the warmest time of day when your fingers don’t freeze, and we tend to have more availability for lessons in afternoons."
+     ]
+    },
+    {
+     "id": "22",
+     "category": "PARAGLIDING",
+     "q": "When is the best time to fly?",
+     "a": [
+      "You can fly practically at any time of the day or year. In the morning the air is calmer and there are no turbulences disturbing the flight. In the afternoon – especially in summer – it can become a bit more thermally active, but this often allows us to ascend. If this becomes too uncomfortable for a passenger, one can easily leave this upwind and steer in the opposite direction to the landing site. Even in winter you can fly super tandem. The air here is usually very calm."
+     ]
+    },
+    {
+     "id": "23",
+     "category": "PARAGLIDING",
+     "q": "Do I have to be athletic to fly?",
+     "a": [
+      "A certain level of sporting fitness is of course an advantage, but not absolutely necessary. You still have to be able to walk. Often we have to walk 5-15 minutes to the actual starting place. Diseases such as high blood pressure, circulatory disorders, heart complaints, etc. must be reported when ordering."
+     ]
+    },
+    {
+     "id": "24",
+     "category": "PARAGLIDING",
+     "q": "How light/heavy may I be minimum/maximum?",
+     "a": [
+      "The minimum weight is 25 kg, the maximum weight 110 kg. Please let us know if you want to enroll your child for a flight so that we can prepare the appropriate equipment."
+     ]
+    },
+    {
+     "id": "25",
+     "category": "PARAGLIDING",
+     "q": "Which weather is suitable to fly?",
+     "a": [
+      "We fly all year round (even in winter), but only in conditions that allow safe flight. The sun does not have to shine necessarily and also with cloudy sky one flies. The wind must not be too strong and must come from the right direction. Our tandem pilots know when to fly and when not. However, weather conditions can lead to changes in dates or flight locations and, if necessary, to cancellations at short notice."
+     ]
+    },
+    {
+     "id": "26",
+     "category": "PARAGLIDING",
+     "q": "How old do I have to be to fly?",
+     "a": [
+      "There are currently no age restrictions to fly as a passenger. In the case of minors, a declaration of consent (in writing) from both parents is required."
+     ]
+    },
+    {
+     "id": "27",
+     "category": "PARAGLIDING",
+     "q": "Can I trust your tandem pilots and fly with a clear conscience?",
+     "a": [
+      "Our tandem pilots have a lot of experience in both solo and tandem flying. We fly very often and under different flight conditions. Safety is our top priority, we do not compromise and therefore sometimes make unpopular decisions, i.e. we also cancel flights when safety is in question."
+     ]
+    },
+    {
+     "id": "28",
+     "category": "PARAGLIDING",
+     "q": "What do I have to do at the start?",
+     "a": [
+      "Your tandem pilot will give you a detailed briefing before the start and do a test run. It is very important when starting that you do not sit down as a passenger, but run along until the pilot says that you can now take a seat in the harness."
+     ]
+    }
+   ],
+   "about": [
+    {
+     "heading": "How It Started",
+     "paragraphs": [
+      "Ride Gudauri was born from the shared vision of Goga Ogbaidze and Ana Mtavrishvili, two professionals united by their passion for the mountains and their commitment to excellence. Together, they set out to create a company that would bring Gudauri’s authentic spirit to the world through safe, professional, and unforgettable mountain experiences."
+     ]
+    },
+    {
+     "heading": "Experience Gudauri with Those Who Know It Best",
+     "paragraphs": [
+      "What sets Ride Gudauri apart is the depth of knowledge behind every experience. With decades of combined experience in skiing, paragliding, mountain safety, and professional operations, the team brings together local expertise and internationally recognized standards.",
+      "Every activity is carefully organized and led by certified professionals who understand Gudauri’s terrain, weather, and conditions firsthand. Whether you are learning to ski, exploring the mountains by snowmobile, taking your first paragliding flight, or joining a summer adventure, you can expect personal attention, professional guidance, and a strong focus on safety.",
+      "For Ride Gudauri, adventure is not simply about adrenaline — it is about creating meaningful experiences that allow guests to discover the mountains with confidence, excitement, and a genuine connection to Gudauri."
+     ]
+    }
+   ],
+   "overview": {
+    "heading": "About Us",
+    "paragraphs": [
+     "Discover the best of Gudauri with Ride Gudauri, your trusted local expert for mountain adventures in Georgia. Our certified ski and snowboard instructors, experienced guides, and deep local knowledge make every moment safe, fun, and unforgettable.",
+     "Conquer the slopes in winter with top-quality equipment, or enjoy a snowmobile tour across the snow-covered peaks of Gudauri. As the season changes, switch to ATVs, buggies, and rafting — and don’t miss paragliding, available year-round for those seeking breathtaking views and total freedom."
+    ]
+   },
+   "terms": {
+    "title": "Terms and Conditions",
+    "blocks": [
+     "## General Terms",
+     "These Terms and Conditions apply to bookings and services provided by Ride Gudauri, including ski lessons, adventure activities, transportation services, and other services offered through Ride Gudauri.",
+     "By making a booking or participating in an activity arranged through Ride Gudauri, you acknowledge that you have read and accepted these Terms and Conditions.",
+     "## Bookings",
+     "Bookings may be made through our website, email, phone, WhatsApp, or other communication channels approved by Ride Gudauri.",
+     "Customers are responsible for providing accurate information when making a booking, including:",
+     "Name and contact details",
+     "Number of participants",
+     "Preferred activity",
+     "Requested date and time",
+     "Any relevant information that may affect participation",
+     "A booking is considered confirmed once Ride Gudauri has confirmed the reservation and any applicable booking fee has been paid.",
+     "## Service Booking Fees",
+     "Different booking fees may apply depending on the service.",
+     "### Ski School Services",
+     "A booking fee equal to 20% of the total service amount may be charged when booking ski school services.",
+     "### Other Activities",
+     "For other activities, a booking fee generally ranging from 50 GEL to 200 GEL per activity session may apply depending on the selected activity or package.",
+     "The exact booking fee will be communicated before the reservation is confirmed.",
+     "## Non-Refundable Booking Fees",
+     "Unless otherwise specifically agreed in writing, booking fees are non-refundable.",
+     "This includes cancellations or rescheduling requested by the customer and situations where an activity cannot proceed because of weather conditions or other circumstances outside Ride Gudauri’s reasonable control.",
+     "Where possible, Ride Gudauri may offer an alternative date, activity, or arrangement, depending on availability and the circumstances.",
+     "## Payment",
+     "Unless otherwise agreed, the remaining balance for the service is paid at the meeting point before the activity begins.",
+     "Payment methods may include:",
+     "Cash",
+     "Credit card",
+     "Debit card",
+     "Other payment methods approved by Ride Gudauri",
+     "Specific payment arrangements may vary depending on the activity or service provider.",
+     "Customers should confirm the applicable payment details with Ride Gudauri before participating.",
+     "## Cancellation by the Customer",
+     "Customers should notify Ride Gudauri of any cancellation or requested change as early as possible.",
+     "Cancellation requests may be made by contacting Ride Gudauri using the contact details provided on our website.",
+     "Booking fees already paid are generally non-refundable.",
+     "Where no advance payment has been made, no refund will be applicable, but early notification is still requested so that Ride Gudauri can manage instructors, equipment, transport, and activity providers efficiently.",
+     "## Rescheduling",
+     "Requests to change the date or time of a booking are subject to availability.",
+     "Ride Gudauri will make reasonable efforts to accommodate rescheduling requests but cannot guarantee that the requested alternative date or time will be available.",
+     "Additional costs may apply if a third-party provider charges for changing or rearranging a reservation.",
+     "## Weather and Activity Conditions",
+     "Many Ride Gudauri services depend on weather, snow, road, mountain, or other environmental conditions.",
+     "Activities may be changed, delayed, rescheduled, or cancelled where conditions are considered unsafe or unsuitable.",
+     "Safety decisions may be made by Ride Gudauri, instructors, guides, pilots, transportation providers, or other qualified activity providers.",
+     "Ride Gudauri cannot guarantee that weather-dependent activities will take place exactly as scheduled.",
+     "## Third-Party Activity Providers",
+     "Some activities offered or arranged through Ride Gudauri may be operated by independent third-party companies or professionals.",
+     "Examples may include:",
+     "Paragliding",
+     "Snowmobiling",
+     "Transportation",
+     "Equipment rental",
+     "Specialized guiding services",
+     "Other adventure activities",
+     "Ride Gudauri may coordinate the booking and communication between the customer and the relevant provider.",
+     "Customers may also be required to accept additional terms, waivers, or safety rules imposed by the activity provider.",
+     "## Participant Responsibilities",
+     "Participants must:",
+     "Follow instructions provided by Ride Gudauri staff, instructors, guides, pilots, drivers, or activity providers",
+     "Act responsibly and avoid behavior that may endanger themselves or others",
+     "Use safety equipment as instructed",
+     "Provide accurate information relevant to participation",
+     "Arrive at the agreed meeting point at the agreed time",
+     "Inform the relevant instructor or provider of any issue that may affect safe participation",
+     "A service provider may refuse participation where a participant’s behavior creates a safety risk or significantly disrupts the activity.",
+     "## Safety",
+     "Adventure and mountain activities involve inherent risks.",
+     "Ride Gudauri and its service partners take reasonable precautions to provide services safely; however, participants acknowledge that activities such as skiing, snowboarding, paragliding, snowmobiling, and other mountain activities may involve risks that cannot be completely eliminated.",
+     "Participants are expected to follow all safety instructions.",
+     "## Insurance",
+     "All guests are strongly advised to maintain appropriate travel and activity insurance for the services they participate in.",
+     "Insurance should be suitable for the specific activity and, where relevant, should include coverage for:",
+     "Medical treatment",
+     "Hospitalization",
+     "Mountain rescue",
+     "Emergency evacuation",
+     "Helicopter rescue",
+     "Accident-related costs",
+     "Activity cancellation where applicable",
+     "Participants are responsible for ensuring that their insurance provides appropriate coverage.",
+     "## Photography and Video",
+     "Photos and videos may be taken during certain Ride Gudauri activities.",
+     "Such materials may occasionally be used for promotional purposes, including on our website or social media platforms.",
+     "Participants who do not wish to appear in promotional photography or video should inform Ride Gudauri staff before the activity begins.",
+     "## Personal Belongings",
+     "Participants are responsible for their own personal belongings during activities and transportation.",
+     "Ride Gudauri is not responsible for lost, stolen, or damaged personal property except where responsibility cannot legally be excluded.",
+     "## Changes to Services",
+     "Ride Gudauri may make reasonable changes to activity schedules, meeting points, instructors, transportation arrangements, routes, or activity providers when required for operational, weather, safety, or availability reasons.",
+     "Where a significant change occurs, we will make reasonable efforts to notify the customer.",
+     "## Limitation of Responsibility",
+     "Ride Gudauri will make reasonable efforts to ensure that bookings and services are provided as described.",
+     "However, Ride Gudauri is not responsible for delays, cancellations, interruptions, or changes caused by circumstances outside its reasonable control, including:",
+     "Severe weather",
+     "Unsafe mountain conditions",
+     "Road closures",
+     "Transport disruption",
+     "Government restrictions",
+     "Natural events",
+     "Equipment or infrastructure problems outside our control",
+     "Actions or decisions of independent third-party service providers",
+     "Nothing in these Terms and Conditions is intended to exclude liability where such exclusion is prohibited by applicable law.",
+     "## Privacy",
+     "Personal information collected during bookings and communication is handled in accordance with the Ride Gudauri Privacy Policy.",
+     "Information may be shared with instructors, transportation companies, activity providers, payment providers, or other partners where necessary to provide the booked service.",
+     "## Changes to These Terms",
+     "Ride Gudauri may update these Terms and Conditions from time to time.",
+     "The latest version will be published on our website.",
+     "The Terms and Conditions applicable to a booking will normally be those in effect at the time the booking is confirmed unless otherwise required by law.",
+     "## Contact Information",
+     "For booking questions, cancellations, or questions regarding these Terms and Conditions, contact Ride Gudauri:",
+     "Email: info@ridegudauri.com",
+     "Phone: +995 591 144 114",
+     "By making a booking or participating in a Ride Gudauri service, you acknowledge that you have read, understood, and agreed to these Terms and Conditions."
+    ]
+   },
+   "privacy": {
+    "title": "Privacy Policy",
+    "blocks": [
+     "## Purpose",
+     "At Ride Gudauri, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and protect the personal data of our website visitors and customers.",
+     "By using our website or services, you acknowledge the practices described in this Privacy Policy. We may update this policy from time to time, and we encourage you to review it periodically.",
+     "## Definitions",
+     "Ride Gudauri (“we,” “our,” or “the company”): Ride Gudauri, a company offering ski lessons, adventure activities, transportation services, and related services in Gudauri, Georgia.",
+     "Personal Data: Any information relating to an identifiable individual, such as name, email address, phone number, location, or other information that may directly or indirectly identify a person.",
+     "Data Processing: Any operation performed on personal data, including collection, storage, use, sharing, or deletion.",
+     "Data Subject / User: An individual whose personal data is processed.",
+     "Consent: A freely given agreement allowing us to process personal data for specific purposes.",
+     "Controller: Ride Gudauri, as the entity responsible for determining how and why personal data is processed.",
+     "Third Party: Any individual or organization other than the user, Ride Gudauri, or an authorized service provider.",
+     "## What Information We Collect",
+     "We may collect the following information when you use our website, contact us, or make a booking:",
+     "Name",
+     "Email address",
+     "Phone number",
+     "Booking details",
+     "Activity preferences",
+     "Group size",
+     "Requested service dates",
+     "Communication history through email, WhatsApp, or other communication channels",
+     "Website usage information collected through cookies or similar technologies",
+     "Payment-related information where required for processing transactions",
+     "Payment information may be processed by trusted third-party payment providers and may not be stored directly by Ride Gudauri.",
+     "## How We Use Your Information",
+     "We may use your personal information for the following purposes:",
+     "To process and manage bookings",
+     "To provide requested services",
+     "To communicate with you regarding inquiries, reservations, changes, or service details",
+     "To coordinate activities with instructors, transportation providers, equipment providers, or other service partners",
+     "To maintain customer and booking records",
+     "To analyze customer statistics and improve our services",
+     "To send promotional offers or updates where permitted and where you have not opted out",
+     "To comply with legal obligations",
+     "To prevent fraud, protect our rights, or resolve disputes",
+     "## Data Sharing",
+     "To provide our services, we may share necessary personal information with trusted third parties.",
+     "These may include:",
+     "Activity providers",
+     "Ski or snowboard instructors",
+     "Paragliding, snowmobile, or other adventure activity providers",
+     "Transportation providers",
+     "Equipment providers",
+     "Payment processors",
+     "Other companies involved in fulfilling your booking",
+     "Legal or governmental authorities where disclosure is required by law",
+     "Depending on the service, we may share information such as your name, phone number, email address, booking date, group size, or activity details.",
+     "We expect third parties working with us to handle personal information securely and use it only for the purpose for which it was provided.",
+     "Ride Gudauri does not sell your personal data to third parties.",
+     "## Data Storage and Security",
+     "We take reasonable administrative and technical measures to protect your personal data against unauthorized access, disclosure, alteration, loss, or misuse.",
+     "Personal data is retained only for as long as reasonably necessary to provide our services, maintain business records, resolve disputes, or comply with legal obligations.",
+     "## Your Rights",
+     "Depending on applicable law, you may have the right to:",
+     "Request access to personal information we hold about you",
+     "Request correction of inaccurate or incomplete information",
+     "Request deletion of your personal information where applicable",
+     "Object to or restrict certain types of data processing",
+     "Withdraw consent where processing is based on consent",
+     "Opt out of marketing communications",
+     "To exercise these rights, please contact us at info@ridegudauri.com.",
+     "## Cookies and Online Tracking",
+     "Our website may use cookies and similar technologies to improve website functionality, understand visitor behavior, analyze website traffic, and improve our services.",
+     "You can control or disable cookies through your browser settings. Disabling certain cookies may affect some website functionality.",
+     "## Marketing Communications",
+     "Where permitted, we may use your contact information to send you promotional offers, company updates, or information about Ride Gudauri services.",
+     "You may opt out of marketing communications at any time by following the unsubscribe instructions provided in the communication or by contacting us.",
+     "## Photography and Video",
+     "Photos or videos may be taken during Ride Gudauri activities.",
+     "Where such material may identify individual participants and is intended for promotional or marketing use, participants may inform our staff if they do not wish to be photographed or featured in promotional materials.",
+     "## Third-Party Services",
+     "Our website or services may involve third-party platforms, payment providers, communication services, booking partners, or activity providers.",
+     "These third parties may process personal data according to their own privacy policies. Ride Gudauri is not responsible for the privacy practices of independent third-party services outside our control.",
+     "## Changes to This Privacy Policy",
+     "We may update this Privacy Policy from time to time to reflect changes in our services, legal requirements, or data-processing practices.",
+     "The latest version will always be published on our website.",
+     "Where appropriate, significant changes may also be communicated through email or a website notification.",
+     "## Contact Information",
+     "If you have questions, concerns, or requests regarding this Privacy Policy or the processing of your personal information, contact us:",
+     "Email: info@ridegudauri.com",
+     "Phone: +995 591 144 114",
+     "By using the Ride Gudauri website and services, you acknowledge that you have read and understood this Privacy Policy."
+    ]
+   },
+   "blog": [
+    {
+     "slug": "a-calm-flight-above-caucasus",
+     "title": "A CALM FLIGHT ABOVE CAUCASUS",
+     "image": "/images/paragliding-tandem.jpg",
+     "date": "2026-08-12",
+     "excerpt": "There are many ways to experience the mountains of Gudauri, but few compare to seeing them from the sky.",
+     "body": [
+      "There are many ways to experience the mountains of Gudauri, but few compare to seeing them from the sky.",
+      "Paragliding in Gudauri offers an extraordinary opportunity to fly above the Caucasus Mountains and experience the landscape from an entirely different perspective.",
+      "Surrounded by snowy peaks, deep valleys, and wide mountain slopes, Gudauri has become one of Georgia’s most exciting destinations for tandem paragliding.",
+      "### What Is Tandem Paragliding?",
+      "Tandem paragliding allows passengers to fly together with an experienced pilot.",
+      "You do not need previous flying experience. Before takeoff, the pilot explains the basic procedure and safety instructions. Once everything is ready, the passenger and pilot launch together from the mountain.",
+      "After takeoff, the paraglider rises above the landscape, offering panoramic views that are impossible to experience from the ground.",
+      "### What Makes Gudauri Special?",
+      "Gudauri sits high in the Greater Caucasus Mountains and provides an impressive setting for paragliding.",
+      "During a flight you may see:",
+      "- Snow-covered mountain peaks",
+      "- Gudauri ski slopes",
+      "- Deep Caucasus valleys",
+      "- The Georgian Military Highway",
+      "- Surrounding mountain villages",
+      "Every flight is different because altitude, duration, and route depend on weather and wind conditions.",
+      "### Is Paragliding Scary?",
+      "Feeling nervous before your first flight is completely normal.",
+      "Tandem paragliding is surprisingly peaceful once you are in the air. Instead of the sensation of falling, you gradually glide through the sky while the paraglider uses air currents to stay airborne.",
+      "Flying with an experienced professional allows you to focus on the scenery and enjoy the experience.",
+      "### An Adventure You Will Remember",
+      "Whether you visit Gudauri during your ski holiday or come specifically for mountain adventures, paragliding offers a unique way to experience Georgia.",
+      "Seeing the Caucasus from above is the kind of memory that stays with you long after your trip is over."
+     ]
+    },
+    {
+     "slug": "quad-bike-adventures-in-gudauri",
+     "title": "Quad Bike Adventures in Gudauri",
+     "image": "/images/quad-bikes.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Gudauri is famous for winter sports, but the mountains are equally impressive when the snow disappears.",
+     "body": [
+      "### Explore the Mountains on Four Wheels",
+      "Gudauri is famous for winter sports, but the mountains are equally impressive when the snow disappears.",
+      "During the warmer months, green valleys, mountain roads, open landscapes, and remote trails make the region an excellent destination for quad bike adventures.",
+      "A guided quad bike experience allows you to explore areas around Gudauri while combining sightseeing with an exciting off-road activity.",
+      "### What Is a Quad Bike Tour?",
+      "Quad bikes, also known as ATVs, are four-wheeled vehicles designed to handle uneven terrain.",
+      "Before starting the adventure, participants receive basic instructions covering acceleration, braking, steering, positioning, and safe riding.",
+      "The group then follows an experienced guide along a planned route.",
+      "### Discover Another Side of Gudauri",
+      "Without winter snow covering the landscape, Gudauri reveals a completely different character.",
+      "Quad bike routes may take riders through areas featuring:",
+      "- Mountain roads",
+      "- Green valleys",
+      "- Open fields",
+      "- Scenic viewpoints",
+      "- Rural landscapes",
+      "- Caucasus mountain scenery",
+      "It is an excellent way to travel farther than you could comfortably explore on foot while still remaining connected to the surrounding landscape.",
+      "### Suitable for Adventure Lovers",
+      "You do not necessarily need previous quad bike experience to enjoy a guided ride.",
+      "Beginners can learn the controls quickly, while experienced riders can still enjoy the scenery and changing terrain.",
+      "The route and pace should always be adapted to the conditions and experience of the group.",
+      "### Experience Gudauri Beyond Winter",
+      "Gudauri is often considered primarily a ski destination, but the region has much more to offer throughout the year.",
+      "Quad biking provides visitors with an exciting way to explore the mountains during spring, summer, and autumn.",
+      "For anyone looking to combine nature, sightseeing, and adventure, a quad bike tour is a great addition to a trip to Gudauri.",
+      "GudauriQuad BikesWinter"
+     ]
+    },
+    {
+     "slug": "rafting-in-georgia",
+     "title": "Rafting in Georgia",
+     "image": "/images/rafting.webp",
+     "date": "2026-08-12",
+     "excerpt": "Georgia is famous for its mountains, but its rivers offer another exciting way to explore the country’s natural landscape.",
+     "body": [
+      "### Discover the Country’s Wild Rivers",
+      "Georgia is famous for its mountains, but its rivers offer another exciting way to explore the country’s natural landscape.",
+      "Rafting combines adventure, teamwork, and beautiful scenery as you navigate moving water surrounded by mountains, forests, and valleys.",
+      "For travelers looking for an active outdoor experience, rafting can be one of the highlights of a trip to Georgia.",
+      "### What Happens During a Rafting Trip?",
+      "Before entering the river, participants receive safety equipment and instructions from experienced guides.",
+      "A typical rafting experience begins with an introduction covering paddling techniques, communication commands, and what to do in different situations on the water.",
+      "Once everyone is ready, the group enters the river together with the guide.",
+      "During the journey, participants paddle as a team while navigating different sections of the river.",
+      "### Do You Need Previous Experience?",
+      "Many rafting routes are suitable for beginners, although conditions and difficulty vary depending on the river and season.",
+      "Professional guides choose appropriate routes based on water conditions and the experience level of the group.",
+      "The most important thing is to listen carefully to your guide and follow the safety instructions.",
+      "### Rafting Is a Team Adventure",
+      "One of the best parts of rafting is that everyone participates.",
+      "Friends, families, colleagues, and groups can work together while enjoying an exciting outdoor experience.",
+      "Between faster sections of the river, there are often calmer moments when you can appreciate the surrounding Georgian landscape.",
+      "### When Is Rafting Available?",
+      "Rafting conditions depend heavily on water levels and weather. Different rivers may offer better conditions during different parts of the year.",
+      "Because river conditions can change, trips should always be organized according to current safety conditions.",
+      "For adventure lovers visiting Georgia, rafting is an exciting way to discover a completely different side of the country."
+     ]
+    },
+    {
+     "slug": "ski-lessons-in-gudauri",
+     "title": "Ski Lessons in Gudauri",
+     "image": "/images/ski-lesson.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Gudauri is one of Georgia’s most popular ski resorts, offering wide slopes, beautiful mountain scenery, and excellent conditions for both beginners and experienced skiers. Whether you are putting on skis for the first time or looking to improve your technique, professional ski lessons can make your time on the mountain safer, easier, and much more enjoyable.",
+     "body": [
+      "### Learn to Ski with Confidence",
+      "Gudauri is one of Georgia’s most popular ski resorts, offering wide slopes, beautiful mountain scenery, and excellent conditions for both beginners and experienced skiers. Whether you are putting on skis for the first time or looking to improve your technique, professional ski lessons can make your time on the mountain safer, easier, and much more enjoyable.",
+      "### Why Take Ski Lessons in Gudauri?",
+      "Learning to ski with a qualified instructor helps you build the right habits from the beginning. Instead of struggling to understand balance, turning, and braking on your own, an instructor can guide you step by step and adapt the lesson to your level.",
+      "Beginners usually start with basic equipment handling, body position, stopping, and controlled turns. As your confidence grows, lessons can progress to steeper slopes, parallel skiing, carving techniques, and more advanced mountain skills.",
+      "### Lessons for Every Level",
+      "Ski lessons are not only for complete beginners. Intermediate and advanced skiers can also benefit from professional coaching.",
+      "An instructor can help you improve:",
+      "- Balance and body positioning",
+      "- Turning technique",
+      "- Speed control",
+      "- Carving",
+      "- Confidence on steeper slopes",
+      "- Overall mountain safety",
+      "Private lessons are particularly useful because the instructor can focus entirely on your individual technique and progression.",
+      "### Discover Gudauri Safely",
+      "Gudauri offers an incredible environment for skiing, but mountain conditions can change quickly. Understanding slope rules, weather conditions, and safe skiing practices is an important part of becoming a confident skier.",
+      "With professional instruction, you can spend less time worrying about technique and more time enjoying the mountains.",
+      "Whether you are visiting Gudauri for a weekend or a full ski holiday, taking a ski lesson is one of the best ways to make the most of your time on the slopes."
+     ]
+    },
+    {
+     "slug": "snowmobiling-in-gudauri",
+     "title": "Snowmobiling in Gudauri",
+     "image": "/images/snowmobile.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Skiing may be the activity most closely associated with Gudauri, but it is far from the only way to explore the snowy Caucasus Mountains.",
+     "body": [
+      "### Explore the Mountains Beyond the Ski Slopes",
+      "Skiing may be the activity most closely associated with Gudauri, but it is far from the only way to explore the snowy Caucasus Mountains.",
+      "Snowmobiling offers an exciting opportunity to travel through winter landscapes, mountain trails, and snow-covered surroundings while experiencing the power and freedom of a snowmobile.",
+      "### Why Try Snowmobiling in Gudauri?",
+      "Snowmobiles can travel across terrain that would otherwise take much longer to explore on foot.",
+      "Depending on weather and snow conditions, a snowmobile experience can take you through areas away from the busiest ski slopes, giving you another perspective of Gudauri’s mountain landscape.",
+      "It combines sightseeing with adventure, making it an excellent activity for visitors looking for something different during their winter holiday.",
+      "### Do You Need Experience?",
+      "For beginner-friendly snowmobile experiences, previous experience is generally not necessary.",
+      "Before starting, participants receive instructions about controlling the snowmobile, maintaining a safe speed, braking, turning, and following the guide.",
+      "Listening carefully to your guide is especially important because snow and visibility conditions in the mountains can change.",
+      "### Safety Comes First",
+      "Mountain environments should always be treated with respect.",
+      "Routes and operating conditions may depend on:",
+      "- Snow depth",
+      "- Visibility",
+      "- Weather",
+      "- Wind",
+      "- Terrain conditions",
+      "Professional guidance helps ensure that the route is appropriate for current conditions.",
+      "### Add Something Different to Your Gudauri Holiday",
+      "Snowmobiling is a great addition to a ski or snowboard trip, particularly when you want to spend some time exploring away from the lifts.",
+      "With beautiful winter scenery and the dramatic Caucasus Mountains surrounding you, snowmobiling in Gudauri offers an exciting combination of exploration and adventure."
+     ]
+    },
+    {
+     "slug": "travel-comfortably-with-ride-gudauri",
+     "title": "Travel Comfortably with Ride Gudauri",
+     "image": "/images/transfer.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Exploring Georgia is an unforgettable experience, but getting between airports, mountain resorts, cities, and attractions can sometimes be challenging. A reliable private transfer allows you to enjoy your journey without worrying about navigation, transport schedules, or road conditions.",
+     "body": [
+      "Exploring Georgia is an unforgettable experience, but getting between airports, mountain resorts, cities, and attractions can sometimes be challenging. A reliable private transfer allows you to enjoy your journey without worrying about navigation, transport schedules, or road conditions.",
+      "Ride Gudauri offers comfortable transfers and tours designed for travelers visiting Gudauri and other destinations throughout Georgia.",
+      "### Airport Transfers to Gudauri",
+      "For many travelers, the adventure begins at Tbilisi International Airport or Kutaisi International Airport.",
+      "A private transfer provides a convenient way to travel directly from the airport to Gudauri. Instead of arranging multiple forms of transportation, you can travel comfortably with your luggage directly to your accommodation.",
+      "During winter, experienced drivers are especially important because mountain roads can be affected by snow and changing weather conditions.",
+      "### More Than Just Transportation",
+      "Private transfers can also become part of your Georgian travel experience.",
+      "Georgia has countless destinations worth discovering, including historic towns, mountain villages, monasteries, natural landscapes, and traditional wine regions.",
+      "Depending on your itinerary, private tours can give you the flexibility to explore the country at your own pace.",
+      "### Comfortable Travel for Individuals and Groups",
+      "Transfers can be suitable for:",
+      "- Solo travelers",
+      "- Couples",
+      "- Families",
+      "- Groups of friends",
+      "- Ski groups",
+      "- Adventure travelers",
+      "Having dedicated transportation also makes traveling with ski equipment, luggage, and outdoor gear considerably easier.",
+      "### Enjoy the Journey",
+      "Georgia is a country where the journey itself is often just as beautiful as the destination. Roads toward Gudauri pass through dramatic valleys, historic landmarks, and impressive mountain scenery.",
+      "Choosing a professional transfer service allows you to relax and enjoy the landscape while an experienced driver takes care of the road."
+     ]
+    }
+   ]
+  },
+  "ka": {
+   "services": {
+    "ski-instructor": {
+     "title": "სათხილამურო ინსტრუქტორი",
+     "description": [
+      "Ride Gudauri-ში გვჯერა, რომ თხილამურებზე ან სნოუბორდზე დგომის სწავლა უბრალოდ გაკვეთილი კი არა, მთაში მიღებული დაუვიწყარი გამოცდილება უნდა იყოს. კავკასიონის გულში განთავსებული ჩვენი გუნდი გთავაზობთ პროფესიონალ, სერტიფიცირებულ ინსტრუქტორებს, რომლებიც თითოეულ მეცადინეობას ხდიან უსაფრთხოს, სასიამოვნოსა და სრულად თქვენს დონეზე მორგებულს.",
+      "მიუხედავად იმისა, დამწყები ხართ და პირველ ნაბიჯებს დგამთ, საშუალო დონის მოთხილამურე, რომელსაც ტექნიკის გაუმჯობესება სურს, თუ გამოცდილი ექსტრემალი, ახალი გამოწვევების ძიებაში — ჩვენი გამოცდილი ინსტრუქტორები დაგეხმარებიან თავდაჯერებულ პროგრესირებაში. თითოეული გაკვეთილი ინდივიდუალურად იგეგმება თქვენი უნარების, მიზნებისა და ტემპის გათვალისწინებით, რათა მაქსიმალური სიამოვნება მიიღოთ ტრასაზე გატარებული დროით.",
+      "ჩვენი გუნდი აერთიანებს საერთაშორისო სერტიფიცირებას, სწავლების თანამედროვე მეთოდებსა და მრავალწლიან ადგილობრივ გამოცდილებას, რაც გუდაურში სათხილამურო და სნოუბორდის სწავლებისთვის ერთ-ერთ ყველაზე სანდო არჩევანად გვაქცევს. შემოგვიერთდით ამ ზამთარს და აღმოაჩინეთ პროფესიონალური ხელმძღვანელობის, უსაფრთხოებისა და გართობის სრულყოფილი ბალანსი — რადგან Ride Gudauri-სთან ერთად, თითოეული დაშვება მთების დაპყრობისკენ გადადგმული ნაბიჯია."
+     ],
+     "url": "https://ridegudauri.com/ka/activity/ski-instructor/"
+    },
+    "snowmobile": {
+     "title": "თოვლმავალი",
+     "description": [
+      "გამოსცადეთ თოვლმავალით ექსტრემალური თავგადასავალი გუდაურში ჩვენს გამოცდილ ადგილობრივ ინსტრუქტორებთან ერთად, რომლებიც უზრუნველყოფენ თქვენს უსაფრთხოებასა და სიამოვნებას მთელი ტურის განმავლობაში.",
+      "თითოეულ ტურს მიუძღვება პროფესიონალი გიდი, რომელიც გაჩვენებთ საუკეთესო პანორამულ მარშრუტებს და დაგეხმარებათ ნებისმიერ დროს.",
+      "უსაფრთხოების ნორმებიდან გამომდინარე, ერთ თოვლის მავალზე ორი ზრდასრულის ერთად ჯდომა დაშვებული არ არის.",
+      "თუ მართვა არ გსურთ, ჩვენს გამოცდილ გიდს შეუძლია თავად დაჯდეს საჭესთან — ყველა გიდი გადამზადებულია, რათა უზრუნველყოს უსაფრთხო და კომფორტული მგზავრობა შედარებით დიდი წონის პირობებშიც კი."
+     ],
+     "url": "https://ridegudauri.com/ka/activity/snowmobile/"
+    },
+    "paragliding": {
+     "title": "პარაპლანით ფრენა",
+     "description": [
+      "გამოსცადეთ პარაპლანით ფრენის დაუვიწყარი ემოციები გუდაურის ცაში — იფრინეთ კავკასიონის ულამაზესი მწვერვალების თავზე ჩვენს სერტიფიცირებულ, გამოცდილ პილოტებთან ერთად. ჩვენ ვუზრუნველყოფთ თითოეული ფრენის უსაფრთხოებას, სიმშვიდესა და დაუვიწყარ შთაბეჭდილებებს. იგრძენით ქარი, დატკბით მთების პანორამული ხედებით და ისიამოვნეთ ფრენის თავისუფლებით საქართველოს ერთ-ერთ ყველაზე შთამბეჭდავ ადგილას.",
+      "ისიამოვნეთ თვალწარმტაცი ფრენით გუდაურის თავზე, საიდანაც კავკასიონის ქედის ულამაზესი პანორამა იშლება. ფრენის ხანგრძლივობაა 10–15 წუთი, ხოლო ღირებულებაში შედის თქვენი ფრენის ვიდეოგადაღება და ტრანსპორტირება — სხვა ადგილას დაშვების შემთხვევაში, ჩვენი გუნდი უზრუნველყოფს თქვენს უსაფრთხო და კომფორტულ დაბრუნებას. იფრინეთ და დაინახეთ გუდაური სრულიად ახალი რაკურსით — დაუვიწყარი თავგადასავალი, რომელიც ხელმისაწვდომია მთელი წლის განმავლობაში."
+     ],
+     "url": "https://ridegudauri.com/ka/activity/paragliding/"
+    },
+    "quad-bike": {
+     "title": "კვადროციკლი",
+     "description": [
+      "გამოსცადეთ 1-საათიანი ამაღელვებელი ოფროუდ თავგადასავალი ულამაზეს კანიონში, რომელიც მთის მშვენიერ ტბამდე მიგიყვანთ — გზად კი ისტორიული ციხესიმაგრის ნანგრევებს იხილავთ.",
+      "მართეთ ტრანსპორტი თავად, სანამ გამოცდილი გიდი მიუძღვება მარშრუტს და უზრუნველყოფს თქვენს უსაფრთხოებასა და კომფორტს.",
+      "ხელმისაწვდომია მთელი წლის განმავლობაში. ეს თავგადასავალი იდეალურია ბუნების მოყვარულთათვის და ყველასთვის, ვისაც სურს მხიარულად და შთამბეჭდავად აღმოაჩინოს გუდაურის ულამაზესი პეიზაჟები."
+     ],
+     "url": "https://ridegudauri.com/ka/activity/quad-bike/"
+    },
+    "rafting": {
+     "title": "ჯომარდობა",
+     "description": [
+      "ჯომარდობა საქართველოში ზაფხულის ერთ-ერთი ყველაზე ამაღელვებელი თავგადასავალია, რომელიც იდეალურია ბუნებისა და ადრენალინის მოყვარულთათვის. მაისიდან, ზამთრის სეზონის დასრულებისთანავე, სტუმრებს შეუძლიათ შეურთდნენ ტურებს პროფესიონალი გიდების თანხლებით, რომლებიც გარშემორტყმულნი არიან კავკასიონის ულამაზესი მთის პეიზაჟებითა და გრილი ჰაერით.",
+      "გამოცდილი გიდების ხელმძღვანელობით, ეს ტურები სრულიად უსაფრთხო, მხიარული და შესაფერისია როგორც დამწყებთათვის, ასევე ექსტრემის მოყვარულთათვის. ეს არის საუკეთესო საზაფხულო აქტივობა ყველასთვის, ვისაც სურს დაუვიწყარი შთაბეჭდილებების მიღება ღია ცის ქვეშ, გუდაურთან ახლოს."
+     ],
+     "url": "https://ridegudauri.com/ka/activity/rafting/"
+    },
+    "transfers-and-tours": {
+     "title": "ტრანსფერები და ტურები",
+     "description": [
+      "კომფორტული და შეუფერხებელი ტრანსფერები თბილისიდან გუდაურის სათხილამურო ტრასებამდე თუ ყაზბეგის შთამბეჭდავ პეიზაჟებამდე. ჩვენი სპეციალურად დაგეგმილი ტურები გაგიმხელთ გუდაურისა და ყაზბეგის რეგიონების დაფარულ, ულამაზეს ადგილებს."
+     ],
+     "url": "https://ridegudauri.com/ka/activity/transfers-and-tours/"
+    }
+   },
+   "faq": [
+    {
+     "id": "01",
+     "category": "ზოგადი",
+     "q": "როგორ დავჯავშნო აქტივობები Ride Gudauri-თან?",
+     "a": [
+      "Ride Gudauri-ის დაჯავშნა მარტივია. უბრალოდ ეწვიეთ ჩვენს ვებგვერდს და შეავსეთ დაჯავშნის ფორმა სასურველ აქტივობაზე, თქვენთვის სასურველ თარიღსა და დროს. ჩვენი გუნდი დაგიდასტურებთ დაჯავშნის დეტალებს ელ-ფოსტის ან ტელეფონის საშუალებით."
+     ]
+    },
+    {
+     "id": "02",
+     "category": "ზოგადი",
+     "q": "შემიძლია თუ არა რამდენიმე აქტივობის რეზერვაცია ერთ ჯავშანში?",
+     "a": [
+      "რა თქმა უნდა! თქვენ შეგიძლიათ დაჯავშნოთ სხვადასხვა აქტივობები, მათ შორის თხილამურებით სრიალი, პარაპლანი, თოვლის მავალი (სნოუბაიკი), კვადროციკლი ერთ ჯავშანში. ჩვენი გუნდი დაგეხმარებათ განრიგის კოორდინაციაში შეუფერხებელი გამოცდილებისთვის."
+     ]
+    },
+    {
+     "id": "03",
+     "category": "ზოგადი",
+     "q": "რა უნდა ჩავიცვა და წავიღო ღია ცის ქვეშ აქტივობებისთვის?",
+     "a": [
+      "ჩაიცვით აქტივობისა და ამინდის პირობების შესაბამისად. თხილამურებით სრიალისთვის ჩაიცვით რამდენიმე ფენა და წამოიღეთ წყალგაუმტარი ტანსაცმელი. თუ პარაპლანით ფრენას აპირებთ, ჩაიცვით კომფორტული ტანსაცმელი. კონკრეტული მოთხოვნები მოგეწოდებათ დაჯავშნისას."
+     ]
+    },
+    {
+     "id": "04",
+     "category": "ზოგადი",
+     "q": "არის თუ არა საჭირო წინასწარი გამოცდილება აქტივობებისთვის?",
+     "a": [
+      "აქტივობების უმეტესობისთვის წინასწარი გამოცდილება არ არის საჭირო. ჩვენი სერტიფიცირებული ინსტრუქტორები და გიდები ერგებიან ყველა დონის უნარებს, რაც უზრუნველყოფს უსაფრთხო და სასიამოვნო გამოცდილებას ყველასთვის."
+     ]
+    },
+    {
+     "id": "05",
+     "category": "ზოგადი",
+     "q": "რა ხდება დაჯავშნის დღეს ცუდი ამინდის შემთხვევაში?",
+     "a": [
+      "თქვენი უსაფრთხოება ჩვენი პრიორიტეტია. არახელსაყრელი ამინდის პირობების შემთხვევაში, შესაძლოა დაგვჭირდეს აქტივობის გადადება ან, საჭიროების შემთხვევაში, გაუქმება. ნებისმიერი ცვლილების შესახებ წინასწარ შეგატყობინებთ."
+     ]
+    },
+    {
+     "id": "06",
+     "category": "ზოგადი",
+     "q": "შემიძლია თუ არა აღჭურვილობის დაქირავება Ride Gudauri-სგან?",
+     "a": [
+      "დიახ, ჩვენ გთავაზობთ აღჭურვილობის დაქირავებას სხვადასხვა აქტივობებისთვის. თხილამურებით სრიალის, პარაპლანით ფრენისა და სხვა საჭირო ინვენტარის დაქირავება შესაძლებელია ადგილზე."
+     ]
+    },
+    {
+     "id": "07",
+     "category": "ზოგადი",
+     "q": "როგორ გადავიხადო გაკვეთილის, ტურის ან აღჭურვილობის დაქირავების საფასური?",
+     "a": [
+      "ონლაინ დაჯავშნისას იხდით ჯავშნის საფასურს ადგილის დასაჯავშნად; ზუსტი თანხა ჩანს დაჯავშნის ფორმაში დადასტურებამდე. დარჩენილი თანხა იხდება შეხვედრის ადგილზე, აქტივობის დაწყებამდე. გადახდის დეტალები შეგიძლიათ გადაამოწმოთ ჩვენს გუნდთან."
+     ]
+    },
+    {
+     "id": "08",
+     "category": "ზოგადი",
+     "q": "არის თუ არა ასაკობრივი შეზღუდვა აქტივობებზე?",
+     "a": [
+      "Ride Gudauri-ში ნებისმიერი ასაკის მონაწილეს ვმასპინძლობთ. თითოეული აქტივობისთვის კონკრეტული ასაკობრივი მოთხოვნები მოგეწოდებათ ჯავშნის გაფორმებისას."
+     ]
+    },
+    {
+     "id": "09",
+     "category": "ზოგადი",
+     "q": "შეიძლება საკუთარი აღჭურვილობის მოტანა?",
+     "a": [
+      "დიახ, შეგიძლიათ საკუთარი აღჭურვილობა წამოიღოთ. თუმცა, თუ დაქირავება დაგჭირდებათ, გთავაზობთ მაღალი ხარისხის ეკიპირებას კომფორტული და სასიამოვნო გამოცდილების უზრუნველსაყოფად."
+     ]
+    },
+    {
+     "id": "10",
+     "category": "ზოგადი",
+     "q": "როგორ დავუკავშირდე Ride Gudauri-ს დამატებითი კითხვების ან საჭიროების შემთხვევაში?",
+     "a": [
+      "დამატებითი კითხვების შემთხვევაში, შეგიძლიათ დაუკავშირდეთ ჩვენს გუნდს ვებგვერდზე მითითებული საკონტაქტო ინფორმაციის საშუალებით. ჩვენ მზად ვართ დაგეხმაროთ, რათა Ride Gudauri-სთან ერთად გატარებული დრო დაუვიწყარი გახდეს."
+     ]
+    },
+    {
+     "id": "11",
+     "category": "სათხილამურო სკოლა",
+     "q": "მჭირდება თხილამურებით სრიალის გამოცდილება Ride Gudauri-ში გაკვეთილების გასავლელად?",
+     "a": [
+      "წინასწარი გამოცდილება არ არის საჭირო! ჩვენ ვემსახურებით ყველა დონის მოთხილამურეს, სრული დამწყებებიდან დაწყებული, გამოცდილებით დამთავრებული. ჩვენი სერტიფიცირებული ინსტრუქტორები გაკვეთილებს თქვენს ინდივიდუალურ შესაძლებლობებს მოარგებენ."
+     ]
+    },
+    {
+     "id": "12",
+     "category": "სათხილამურო სკოლა",
+     "q": "რა დონის მოთხილამურე ვარ?",
+     "a": [
+      "გაარკვიეთ, როგორ წარუდგინოთ საკუთარი თავი ინსტრუქტორს და დაიწყეთ სწავლა შესაბამისი დონიდან. თქვენი დონის ცოდნა დაგეხმარებათ გაკვეთილისთვის სწორი გეგმის შექმნაში და თქვენი პროგრესის დაჩქარებაში.",
+      "დამწყები (დონე 1): აღწერა: ეს დონე განკუთვნილია მათთვის, ვისაც არასდროს უსრიალია ან აქვს მინიმალური გამოცდილება. უნარები: სათხილამურო აღჭურვილობის ჩაცმისა და გახდის სწავლა. საბაზისო დგომისა და თხილამურებზე ბალანსის შენარჩუნება. სრიალის, მოხვევისა და სიჩქარის კონტროლის სწავლა მარტივ დაქანებებზე. უსაფრთხოდ გაჩერების უნარის განვითარება. საბაგიროებით სარგებლობის გაცნობა.",
+      "საშუალო (დონე 2): აღწერა: ამ დონის მონაწილეებს აქვთ სრიალის საბაზისო უნარები და მზად არიან გადავიდნენ უფრო რთულ რელიეფზე. უნარები: მოხვევის ტექნიკის გაუმჯობესება სხვადასხვაგვარ რელიეფზე. თავდაჯერებულობის ამაღლება უფრო ციცაბო დაქანებებზე. კარვინგის გაცნობა. პარალელურად სრიალისა და მოხვევების შეუფერხებლად გადაბმის სწავლა. განსხვავებულ თოვლის პირობებთან გამკლავების საბაზისო უნარების განვითარება.",
+      "მაღალი საშუალო (დონე 3): აღწერა: ამ დონის მოთხილამურეები თავს კომფორტულად გრძნობენ საშუალო სირთულის ტრასების უმეტესობაზე და მზად არიან უფრო დახვეწილი ტექნიკის ათვისებისთვის. უნარები: პარალელური სრიალის სრულყოფილად დაუფლება უფრო ციცაბო დაქანებებზე. გაუკვალავ თოვლზე სრიალის გაცნობა. კარვინგის ტექნიკის გაუმჯობესება. ჯოხების გამოყენების დახვეწა ბალანსისა და მოხვევისთვის. თავდაჯერებულობის ამაღლება სხვადასხვა სახის თოვლში სრიალისას."
+     ]
+    },
+    {
+     "id": "13",
+     "category": "სათხილამურო სკოლა",
+     "q": "სად არის შეხვედრის ადგილი სათხილამურო/სნოუბორდის გაკვეთილისთვის?",
+     "a": [
+      "Ride Gudauri-ს სათხილამურო სკოლა გთავაზობთ შეხვედრის რამდენიმე ადგილს, მათ შორის:",
+      "– გონდოლას საბაგიროს ზედა სადგურთან, Ride Gudauri-ს დროშასთან.",
+      "– გონდოლას საბაგიროს ქვედა სადგურთან, Dunkin Donuts-ის წინ.",
+      "– სასტუმრო Marco Polo-სთან მდებარე საბაგიროების სალაროებთან.",
+      "– სასტუმრო Gudauri Lodge-თან ახლოს, ტრასაზე, Ride Gudauri-ს დროშასთან.",
+      "– თუ აღჭურვილობას ჩვენგან ქირაობთ, შეხვედრა იქნება სასტუმრო Carpe Diem Gudauri-ს გვერდით, საიდანაც პირდაპირ ცენტრალურ საბაგიროზე გადახვალთ.",
+      "ჩვენი გუნდი დაგიკავშირდებათ შეხვედრის ადგილის შეთანხმების მიზნით, თქვენი საცხოვრებელი ადგილის გათვალისწინებით."
+     ]
+    },
+    {
+     "id": "14",
+     "category": "სათხილამურო სკოლა",
+     "q": "როგორ გადავიხადო გაკვეთილის და აღჭურვილობის დაქირავების საფასური?",
+     "a": [
+      "ონლაინ დაჯავშნისას იხდით ჯავშნის საფასურს ადგილის დასაჯავშნად; ზუსტი თანხა ჩანს დაჯავშნის ფორმაში დადასტურებამდე. დარჩენილი თანხა იხდება შეხვედრის ადგილზე, აქტივობის დაწყებამდე. გადახდის დეტალები შეგიძლიათ გადაამოწმოთ ჩვენს გუნდთან."
+     ]
+    },
+    {
+     "id": "15",
+     "category": "სათხილამურო სკოლა",
+     "q": "როგორ დავუკავშირდე Ride Gudauri-ს დამატებითი კითხვების ან საჭიროების შემთხვევაში?",
+     "a": [
+      "თუ დამატებითი კითხვები გექნებათ, შეგიძლიათ დაუკავშირდეთ ჩვენს გუნდს ვებგვერდზე მითითებული საკონტაქტო ინფორმაციის საშუალებით. ჩვენ მზად ვართ დაგეხმაროთ და თქვენი გამოცდილება Ride Gudauri-თან დაუვიწყარი გავხადოთ."
+     ]
+    },
+    {
+     "id": "16",
+     "category": "სათხილამურო სკოლა",
+     "q": "რა უნდა ჩავიცვა და წამოვიღო სათხილამურო გაკვეთილისთვის?",
+     "a": [
+      "ჩაიცვით რამდენიმე ფენა წყალგაუმტარი ტანსაცმელი, ატარეთ ხელთათმანები და წამოიღეთ სათხილამურო სათვალე. თუ გაქვთ, არ დაგავიწყდეთ სათხილამურო ჩექმების წამოღება. თუ აღჭურვილობის დაქირავებას აპირებთ, ჩვენს ობიექტებში ყველაფერი გვაქვს, რაც გჭირდებათ."
+     ]
+    },
+    {
+     "id": "17",
+     "category": "სათხილამურო სკოლა",
+     "q": "შემიძლია თუ არა აღჭურვილობის დაქირავება Ride Gudauri-სგან?",
+     "a": [
+      "დიახ, ჩვენ გთავაზობთ სათხილამურო აღჭურვილობის დაქირავებას. თხილამურების, ჩექმებისა და ჯოხების დაქირავება შეგიძლიათ ჩვენს ადგილობრივ ობიექტში. ჩვენი პერსონალი უზრუნველყოფს, რომ გქონდეთ შესაფერისი აღჭურვილობა კომფორტული და სასიამოვნო გამოცდილებისთვის."
+     ]
+    },
+    {
+     "id": "18",
+     "category": "სათხილამურო სკოლა",
+     "q": "რა ხდება დაჯავშნის დღეს ცუდი ამინდის შემთხვევაში?",
+     "a": [
+      "თქვენი უსაფრთხოება ჩვენი პრიორიტეტია. არასასურველი ამინდის პირობების შემთხვევაში, შესაძლოა დაგვჭირდეს აქტივობის გადადება ან, აუცილებლობის შემთხვევაში, გაუქმება. ჩვენ ყველაფერს გავაკეთებთ იმისათვის, რომ ნებისმიერი ცვლილების შესახებ წინასწარ შეგატყობინოთ."
+     ]
+    },
+    {
+     "id": "19",
+     "category": "სათხილამურო სკოლა",
+     "q": "რამდენი სათხილამურო გაკვეთილი მჭირდება?",
+     "a": [
+      "გირჩევთ მინიმუმ 4 გაკვეთილის დაჯავშნას ნებისმიერი მომზადების დონის მქონე ადამიანისთვის. ეს გაძლევთ საკმარის დროს ინსტრუქტორთან, რათა ნამდვილად კონცენტრირდეთ ტექნიკის კონკრეტულ ასპექტებზე, გააუმჯობესოთ თხილამურებით/სნოუბორდით სრიალის უნარები, აიმაღლოთ თავდაჯერებულობა ახალ რელიეფზე და მეტი სიამოვნება მიიღოთ მთაში. მაღალი დონის მოთხილამურეები და სნოუბორდისტებიც კი ამჩნევენ უდიდეს ცვლილებებს პროფესიონალ ინსტრუქტორთან 4 გაკვეთილის შემდეგ. თხილამურებითა და სნოუბორდით სრიალი ისეთი სპორტის სახეობებია, რომლებშიც დახვეწა არასდროს წყდება, და რაც უკეთ სრიალებთ, მით მეტ სიამოვნებას იღებთ!"
+     ]
+    },
+    {
+     "id": "20",
+     "category": "სათხილამურო სკოლა",
+     "q": "რამდენად ადრე უნდა დავჯავშნო?",
+     "a": [
+      "რაც შეიძლება მალე! გირჩევთ დაჯავშნოთ თხილამურის ან სნოუბორდის ინსტრუქტორი საქართველოში მოგზაურობის თარიღების დადასტურებისთანავე. თებერვლის არდადეგების პერიოდში ხშირად ადგილები ერთ თვეზე მეტი ხნით ადრე სრულად იჯავშნება."
+     ]
+    },
+    {
+     "id": "21",
+     "category": "სათხილამურო სკოლა",
+     "q": "მინდა დილის გაკვეთილების დაჯავშნა, მაგრამ ადგილები ამოწურულია, რა გავაკეთო?",
+     "a": [
+      "გუდაურში შუადღისას თხილამურებით ან სნოუბორდით სრიალს ბევრი უპირატესობა აქვს! ტრასებზე ნაკლები ხალხია, მზე თოვლს ათბობს და მას სრიალისთვის უფრო რბილსა და მოსახერხებელს ხდის. დღის ყველაზე თბილ მონაკვეთში სრიალი ყველას უფრო სიამოვნებს, როცა თითები არ გეყინებათ. და შუადღის საათებში გაკვეთილებზე ადგილებიც უფრო მეტი გვაქვს ხოლმე."
+     ]
+    },
+    {
+     "id": "22",
+     "category": "პარაპლანით ფრენა",
+     "q": "როდის არის ფრენისთვის საუკეთესო დრო?",
+     "a": [
+      "ფრენა პრაქტიკულად დღის ან წლის ნებისმიერ დროს შეგიძლიათ. დილით ჰაერი უფრო მშვიდია და ფრენას ტურბულენტობა არ არღვევს. ნაშუადღევს — განსაკუთრებით ზაფხულში — ჰაერი შეიძლება ცოტა უფრო თერმულად აქტიური გახდეს. თუმცა ეს ხშირად მაღლა ასვლის საშუალებას გვაძლევს. თუ ეს მგზავრისთვის ძალიან არაკომფორტული გახდება, მარტივად შესაძლებელია ამ აღმავალი ნაკადის დატოვება და საპირისპირო მიმართულებით, დასაშვები მოედნისკენ გაფრენა. ზამთარშიც კი შეგიძლიათ შესანიშნავად იფრინოთ ტანდემში. ჰაერი ამ დროს, როგორც წესი, ძალიან მშვიდია."
+     ]
+    },
+    {
+     "id": "23",
+     "category": "პარაპლანით ფრენა",
+     "q": "ფრენისთვის სპორტული მომზადება აუცილებელია?",
+     "a": [
+      "რა თქმა უნდა, გარკვეული სპორტული ფორმა უპირატესობაა, თუმცა ის არ არის უპირობოდ აუცილებელი. მთავარია, სიარული შეგეძლოთ. ხშირად უშუალოდ ასაფრენ ადგილამდე 5-15 წუთი ფეხით გავლაა საჭირო. ისეთი დაავადებების შესახებ, როგორებიცაა მაღალი არტერიული წნევა, სისხლის მიმოქცევის დარღვევები, გულის პრობლემები და ა.შ., შეკვეთისას აუცილებლად უნდა გვაცნობოთ."
+     ]
+    },
+    {
+     "id": "24",
+     "category": "პარაპლანით ფრენა",
+     "q": "მინიმუმ/მაქსიმუმ რამდენი შეიძლება ვიყო წონაში?",
+     "a": [
+      "მინიმალური წონა არის 25 კგ, ხოლო მაქსიმალური წონა — 110 კგ. გთხოვთ, შეგვატყობინოთ, თუ გსურთ თქვენი შვილის დარეგისტრირება ფრენაზე, რათა შესაბამისი აღჭურვილობა მოვამზადოთ."
+     ]
+    },
+    {
+     "id": "25",
+     "category": "პარაპლანით ფრენა",
+     "q": "ფრენისთვის რომელი ამინდია გამოსადეგი?",
+     "a": [
+      "ფრენა მთელი წლის განმავლობაში (ზამთარშიც კი) შესაძლებელია, თუმცა მხოლოდ ისეთ პირობებში, რომლებიც უსაფრთხო აფრენის საშუალებას იძლევა. აუცილებელი არ არის მზე ანათებდეს — ფრენა ღრუბლიან ამინდშიც ხორციელდება. ქარი არ უნდა იყოს ძალიან ძლიერი და სწორი მიმართულებიდან უნდა ქროდეს. ჩვენმა ტანდემ-პილოტებმა იციან, როდის შეიძლება ფრენა და როდის — არა. თუმცა, ამინდის პირობებმა შეიძლება გამოიწვიოს თარიღების ან ფრენის ადგილების ცვლილება, ხოლო აუცილებლობის შემთხვევაში — გაუქმება მოკლე ვადებშიც."
+     ]
+    },
+    {
+     "id": "26",
+     "category": "პარაპლანით ფრენა",
+     "q": "არის თუ არა ფრენაზე ასაკობრივი შეზღუდვა?",
+     "a": [
+      "მგზავრის სახით ფრენისთვის ამჟამად ასაკობრივი შეზღუდვები არ არსებობს. არასრულწლოვნების შემთხვევაში აუცილებელია ორივე მშობლის თანხმობა (წერილობითი ფორმით)."
+     ]
+    },
+    {
+     "id": "27",
+     "category": "პარაპლანით ფრენა",
+     "q": "შემიძლია ვენდო თქვენს ტანდემ-პილოტებს და მშვიდად ვიფრინო?",
+     "a": [
+      "ჩვენს ტანდემ-პილოტებს დიდი გამოცდილება აქვთ როგორც დამოუკიდებელ, ისე ტანდემურ ფრენებში. ჩვენ ძალიან ხშირად დავფრინავთ სხვადასხვა საფრენ პირობებში. უსაფრთხოება ჩვენი მთავარი პრიორიტეტია. კომპრომისზე არ მივდივართ და, შესაბამისად, ხანდახან არაპოპულარულ გადაწყვეტილებებსაც ვიღებთ ე.ი. ვაუქმებთ ფრენებს, როდესაც უსაფრთხოება ეჭვქვეშ დგება."
+     ]
+    },
+    {
+     "id": "28",
+     "category": "პარაპლანით ფრენა",
+     "q": "რა უნდა გავაკეთო დასაწყისში?",
+     "a": [
+      "თქვენი ტანდემ-პილოტი სტარტამდე დეტალურ ინსტრუქტაჟს ჩაგიტარებთ და სატესტო გაქცევას გააკეთებს. აფრენისას ძალიან მნიშვნელოვანია, რომ მგზავრის სავარძელში არ დაჯდეთ, არამედ ირბინოთ მანამ, სანამ პილოტი არ გეტყვით, რომ უკვე შეგიძლიათ საკიდ სისტემაში (სავარძელში) მოსხდეთ."
+     ]
+    }
+   ],
+   "about": [
+    {
+     "heading": "როგორ დაიწყო ყველაფერი",
+     "paragraphs": [
+      "Ride Gudauri შეიქმნა გოგა ოგბაიძისა და ანა მთავრიშვილის საერთო ხედვის შედეგად — ორი პროფესიონალის, რომლებსაც მთებისადმი სიყვარული და სრულყოფილებისკენ სწრაფვა აერთიანებთ. მათ ერთობლივად დააფუძნეს კომპანია, რომელსაც გუდაურის ავთენტური სული მსოფლიოსთვის უსაფრთხო, პროფესიონალური და დაუვიწყარი მთის თავგადასავლების მეშვეობით უნდა გაეცნო."
+     ]
+    },
+    {
+     "heading": "გამოსცადეთ გუდაური მათთან ერთად, ვინც მას ყველაზე უკეთ იცნობს",
+     "paragraphs": [
+      "ის, რაც Ride Gudauri-ს გამოარჩევს, თითოეული თავგადასავლის მიღმა არსებული ღრმა ცოდნაა. თხილამურებით სრიალის, პარაპლანერით ფრენის, მთის უსაფრთხოებისა და პროფესიონალური ოპერაციების მრავალწლიანი კომბინირებული გამოცდილებით, გუნდი აერთიანებს ადგილობრივ ექსპერტიზასა და საერთაშორისოდ აღიარებულ სტანდარტებს.",
+      "თითოეული აქტივობა საგულდაგულოდ არის ორგანიზებული და მას უძღვებიან სერტიფიცირებული პროფესიონალები, რომლებიც პირადად იცნობენ გუდაურის რელიეფს, ამინდსა და პირობებს. მიუხედავად იმისა, სწავლობთ თხილამურებით სრიალს, იკვლევთ მთებს თოვლის მავალით (სნოუბაიკით), ასრულებთ თქვენს პირველ ფრენას პარაპლანით თუ უერთდებით ზაფხულის თავგადასავალს, შეგიძლიათ ელოდოთ პერსონალურ ყურადღებას, პროფესიონალურ ხელმძღვანელობასა და უსაფრთხოებაზე მაღალ ფოკუსს.",
+      "Ride Gudauri-სთვის თავგადასავალი არ არის მხოლოდ ადრენალინი — ეს არის შინაარსიანი გამოცდილების შექმნა, რაც სტუმრებს საშუალებას აძლევს აღმოაჩინონ მთები თავდაჯერებულობით, აღფრთოვანებითა და გუდაურთან ნამდვილი კავშირით."
+     ]
+    }
+   ],
+   "overview": {
+    "heading": "ჩვენ შესახებ",
+    "paragraphs": [
+     "აღმოაჩინეთ გუდაურის საუკეთესო მხარეები Ride Gudauri-სთან ერთად — თქვენს სანდო ადგილობრივ ექსპერტთან მთის თავგადასავლებში საქართველოში. ჩვენი სერტიფიცირებული სათხილამურო და სნოუბორდის ინსტრუქტორები, გამოცდილი გიდები და ადგილობრივი გარემოს ღრმა ცოდნა თითოეულ მომენტს უსაფრთხოს, მხიარულსა და დაუვიწყარს ხდის.",
+     "ზამთარში დაპყარით ფერდობები უმაღლესი ხარისხის აღჭურვილობით ან ისიამოვნეთ თოვლის მავალის (სნოუბაიკის) ტურით გუდაურის დათოვლილ მწვერვალებზე. სეზონის შეცვლასთან ერთად, გადადით კვადროციკლებზე, ბაგებსა და რაფტინგზე — და არ გამოტოვოთ პარაპლანით ფრენა, რომელიც ხელმისაწვდომია მთელი წლის განმავლობაში მათთვის, ვინც სულისშემძვრელ ხედებსა და სრულ თავისუფლებას ეძებს."
+    ]
+   },
+   "terms": {
+    "title": "წესები და პირობები",
+    "blocks": [
+     "## ზოგადი პირობები",
+     "წინამდებარე წესები და პირობები ვრცელდება Ride Gudauri-ის მიერ შეთავაზებულ ჯავშნებსა და მომსახურებებზე, მათ შორის სათხილამურო გაკვეთილებზე, სათავგადასავლო აქტივობებზე, ტრანსპორტირებასა და სხვა დაკავშირებულ მომსახურებებზე.",
+     "ჯავშნის განხორციელებით ან Ride Gudauri-ის მიერ ორგანიზებულ აქტივობაში მონაწილეობით თქვენ ადასტურებთ, რომ წაიკითხეთ და ეთანხმებით წინამდებარე წესებსა და პირობებს.",
+     "## ჯავშანი",
+     "ჯავშნის განხორციელება შესაძლებელია ჩვენი ვებსაიტის, ელფოსტის, ტელეფონის, WhatsApp-ის ან Ride Gudauri-ის მიერ დაშვებული სხვა საკომუნიკაციო არხის საშუალებით.",
+     "მომხმარებელი ვალდებულია მოგვაწოდოს ზუსტი ინფორმაცია, მათ შორის:",
+     "- სახელი და საკონტაქტო ინფორმაცია",
+     "- მონაწილეთა რაოდენობა",
+     "- სასურველი აქტივობა",
+     "- სასურველი თარიღი და დრო",
+     "- ნებისმიერი შესაბამისი ინფორმაცია, რომელმაც შესაძლოა გავლენა მოახდინოს მონაწილეობაზე",
+     "ჯავშანი დადასტურებულად ითვლება მას შემდეგ, რაც Ride Gudauri დაადასტურებს მას და, საჭიროების შემთხვევაში, გადაიხდება შესაბამისი ჯავშნის საფასური.",
+     "## ჯავშნის საფასური",
+     "ჯავშნის საფასური განსხვავდება მომსახურების მიხედვით.",
+     "### სათხილამურო სკოლის მომსახურება",
+     "სათხილამურო სკოლის მომსახურების დაჯავშნისას შესაძლოა წინასწარ გადაიხადოთ მომსახურების სრული ღირებულების 20%.",
+     "### სხვა აქტივობები",
+     "სხვა აქტივობებისთვის შესაძლოა დაწესდეს 50 ლარიდან 200 ლარამდე ჯავშნის საფასური თითო აქტივობის სესიაზე, არჩეული აქტივობის ან პაკეტის მიხედვით.",
+     "ზუსტი თანხა მომხმარებელს ეცნობება ჯავშნის დადასტურებამდე.",
+     "## არადაბრუნებადი ჯავშნის საფასური",
+     "თუ წერილობით სხვაგვარად არ არის შეთანხმებული, ჯავშნის საფასური არ ექვემდებარება დაბრუნებას.",
+     "ეს წესი ვრცელდება როგორც მომხმარებლის მიერ მოთხოვნილ გაუქმებაზე ან გადატანაზე, ასევე იმ შემთხვევებზე, როდესაც აქტივობის ჩატარება შეუძლებელია ამინდის ან სხვა ისეთი გარემოების გამო, რომელიც Ride Gudauri-ის გონივრულ კონტროლს სცდება.",
+     "შესაძლებლობის შემთხვევაში Ride Gudauri შესაძლოა შემოგთავაზოთ ალტერნატიული თარიღი, აქტივობა ან სხვა ვარიანტი ხელმისაწვდომობისა და კონკრეტული გარემოებების გათვალისწინებით.",
+     "## გადახდა",
+     "თუ წინასწარ სხვაგვარად არ არის შეთანხმებული, დარჩენილი თანხა გადაიხდება შეხვედრის ადგილზე, აქტივობის დაწყებამდე.",
+     "გადახდის შესაძლო მეთოდებია:",
+     "- ნაღდი ანგარიშსწორება",
+     "- საკრედიტო ბარათი",
+     "- სადებეტო ბარათი",
+     "- Ride Gudauri-ის მიერ დაშვებული სხვა გადახდის მეთოდი",
+     "გადახდის პირობები შესაძლოა განსხვავდებოდეს აქტივობის ან მომსახურების მიმწოდებლის მიხედვით.",
+     "მონაწილეობამდე გირჩევთ გადაამოწმოთ გადახდის შესაბამისი დეტალები Ride Gudauri-ის გუნდთან.",
+     "## მომხმარებლის მიერ ჯავშნის გაუქმება",
+     "მომხმარებელმა ჯავშნის გაუქმების ან ცვლილების მოთხოვნის შესახებ Ride Gudauri-ს უნდა შეატყობინოს რაც შეიძლება ადრე.",
+     "გაუქმების მოთხოვნა შეგიძლიათ გამოგზავნოთ ჩვენს ვებსაიტზე მითითებული საკონტაქტო ინფორმაციის საშუალებით.",
+     "უკვე გადახდილი ჯავშნის საფასური, როგორც წესი, არ ბრუნდება.",
+     "თუ წინასწარი გადახდა არ განხორციელებულა, თანხის დაბრუნების საკითხი არ წარმოიშობა, თუმცა ადრეული შეტყობინება საჭიროა იმისთვის, რომ ეფექტურად მოხდეს ინსტრუქტორების, აღჭურვილობის, ტრანსპორტისა და სხვა მომსახურების მიმწოდებლების მართვა.",
+     "## ჯავშნის გადატანა",
+     "ჯავშნის თარიღის ან დროის შეცვლის მოთხოვნა დამოკიდებულია ხელმისაწვდომობაზე.",
+     "Ride Gudauri გონივრულ ძალისხმევას გამოიყენებს მოთხოვნის დასაკმაყოფილებლად, თუმცა ვერ იძლევა გარანტიას, რომ სასურველი ალტერნატიული თარიღი ან დრო ხელმისაწვდომი იქნება.",
+     "დამატებითი საფასური შესაძლოა დაწესდეს იმ შემთხვევაში, თუ მესამე მხარის მომსახურების მიმწოდებელი ჯავშნის ცვლილებისთვის დამატებით თანხას ითხოვს.",
+     "## ამინდი და აქტივობის პირობები",
+     "Ride Gudauri-ის მრავალი მომსახურება დამოკიდებულია ამინდის, თოვლის, გზის, მთის და სხვა გარემო პირობებზე.",
+     "აქტივობა შესაძლოა შეიცვალოს, გადაიდოს, გადაიტანოს ან გაუქმდეს, თუ პირობები ჩაითვლება სახიფათოდ ან შეუსაბამოდ.",
+     "უსაფრთხოებასთან დაკავშირებული გადაწყვეტილება შესაძლოა მიიღოს Ride Gudauri-მა, ინსტრუქტორმა, გიდმა, პილოტმა, სატრანსპორტო კომპანიამ ან სხვა კვალიფიციურმა მომსახურების მიმწოდებელმა.",
+     "Ride Gudauri ვერ იძლევა გარანტიას, რომ ამინდზე დამოკიდებული აქტივობა ზუსტად დაგეგმილ დროს გაიმართება.",
+     "## მესამე მხარის მომსახურების მიმწოდებლები",
+     "Ride Gudauri-ის მიერ შეთავაზებული ან ორგანიზებული ზოგიერთი აქტივობა შესაძლოა შესრულდეს დამოუკიდებელი მესამე მხარის კომპანიების ან პროფესიონალების მიერ.",
+     "მაგალითად:",
+     "- პარაპლანით ფრენა",
+     "- სნოუმობილით სარგებლობა",
+     "- ტრანსპორტირება",
+     "- აღჭურვილობის გაქირავება",
+     "- სპეციალიზებული გიდის მომსახურება",
+     "- სხვა სათავგადასავლო აქტივობები",
+     "Ride Gudauri შესაძლოა კოორდინაციას უწევდეს ჯავშანსა და მომხმარებელსა და შესაბამის მიმწოდებელს შორის კომუნიკაციას.",
+     "მომხმარებელს შესაძლოა ასევე მოეთხოვოს მომსახურების მიმწოდებლის დამატებით პირობებზე, უსაფრთხოების წესებზე ან პასუხისმგებლობის შესახებ დოკუმენტებზე თანხმობა.",
+     "## მონაწილეთა პასუხისმგებლობები",
+     "მონაწილეები ვალდებულნი არიან:",
+     "- დაიცვან Ride Gudauri-ის თანამშრომლების, ინსტრუქტორების, გიდების, პილოტების, მძღოლებისა და სხვა მომსახურების მიმწოდებლების ინსტრუქციები",
+     "- მოიქცნენ პასუხისმგებლობით და არ შეუქმნან საფრთხე საკუთარ თავს ან სხვებს",
+     "- გამოიყენონ უსაფრთხოების აღჭურვილობა შესაბამისი ინსტრუქციის მიხედვით",
+     "- მიაწოდონ ზუსტი ინფორმაცია, რომელსაც მნიშვნელობა აქვს უსაფრთხო მონაწილეობისთვის",
+     "- შეთანხმებულ დროს გამოცხადდნენ შეთანხმებულ შეხვედრის ადგილზე",
+     "- აცნობონ ინსტრუქტორს ან მომსახურების მიმწოდებელს ნებისმიერი გარემოების შესახებ, რომელმაც შესაძლოა გავლენა მოახდინოს უსაფრთხო მონაწილეობაზე",
+     "მომსახურების მიმწოდებელს უფლება აქვს უარი თქვას მონაწილის დაშვებაზე, თუ მისი ქცევა უსაფრთხოების რისკს ქმნის ან მნიშვნელოვნად აფერხებს აქტივობას.",
+     "## უსაფრთხოება",
+     "სათავგადასავლო და მთის აქტივობები გარკვეულ ბუნებრივ რისკებთან არის დაკავშირებული.",
+     "Ride Gudauri და მისი პარტნიორები იყენებენ გონივრულ უსაფრთხოების ზომებს, თუმცა მონაწილეები აცნობიერებენ, რომ სათხილამურო სპორტი, სნოუბორდი, პარაპლანით ფრენა, სნოუმობილით სარგებლობა და სხვა მთის აქტივობები შეიძლება შეიცავდეს რისკებს, რომელთა სრულად გამორიცხვა შეუძლებელია.",
+     "მონაწილეებმა უნდა დაიცვან უსაფრთხოების ყველა ინსტრუქცია.",
+     "## დაზღვევა",
+     "ყველა სტუმარს მკაცრად ვურჩევთ, ჰქონდეს შესაბამისი სამოგზაურო და აქტივობის დაზღვევა იმ მომსახურებისთვის, რომელშიც მონაწილეობს.",
+     "საჭიროების შემთხვევაში დაზღვევა უნდა ფარავდეს:",
+     "- სამედიცინო მომსახურებას",
+     "- ჰოსპიტალიზაციას",
+     "- მთის სამაშველო სამუშაოებს",
+     "- გადაუდებელ ევაკუაციას",
+     "- ვერტმფრენით სამაშველო მომსახურებას",
+     "- უბედურ შემთხვევასთან დაკავშირებულ ხარჯებს",
+     "- აქტივობის გაუქმებას, თუ ეს გათვალისწინებულია სადაზღვევო პოლისით",
+     "მონაწილე თავად არის პასუხისმგებელი სათანადო სადაზღვევო დაფარვის არსებობაზე.",
+     "## ფოტო და ვიდეო გადაღება",
+     "Ride Gudauri-ის გარკვეული აქტივობების დროს შესაძლოა გაკეთდეს ფოტოები და ვიდეოჩანაწერები.",
+     "ასეთი მასალები შესაძლოა პერიოდულად გამოყენებულ იქნას სარეკლამო მიზნებისთვის, მათ შორის ჩვენს ვებსაიტსა და სოციალურ ქსელებში.",
+     "მონაწილეებმა, რომლებსაც არ სურთ სარეკლამო ფოტოებში ან ვიდეოებში გამოჩენა, ამის შესახებ უნდა აცნობონ Ride Gudauri-ის თანამშრომლებს აქტივობის დაწყებამდე.",
+     "## პირადი ნივთები",
+     "მონაწილეები თავად არიან პასუხისმგებელი საკუთარ პირად ნივთებზე აქტივობისა და ტრანსპორტირების განმავლობაში.",
+     "Ride Gudauri პასუხისმგებელი არ არის დაკარგულ, მოპარულ ან დაზიანებულ პირად ნივთებზე, გარდა იმ შემთხვევებისა, როდესაც ასეთი პასუხისმგებლობის გამორიცხვა კანონით დაუშვებელია.",
+     "## მომსახურების ცვლილებები",
+     "Ride Gudauri-ს შეუძლია გონივრულ ფარგლებში შეცვალოს აქტივობის განრიგი, შეხვედრის ადგილი, ინსტრუქტორი, ტრანსპორტირების პირობები, მარშრუტი ან მომსახურების მიმწოდებელი, თუ ეს საჭიროა საოპერაციო, ამინდის, უსაფრთხოების ან ხელმისაწვდომობის მიზეზების გამო.",
+     "მნიშვნელოვანი ცვლილების შემთხვევაში ჩვენ გონივრულ ძალისხმევას გამოვიყენებთ მომხმარებლის ინფორმირებისთვის.",
+     "## პასუხისმგებლობის შეზღუდვა",
+     "Ride Gudauri გამოიყენებს გონივრულ ძალისხმევას იმისთვის, რომ მომსახურებები განხორციელდეს აღწერილი პირობების შესაბამისად.",
+     "თუმცა Ride Gudauri პასუხისმგებელი არ არის დაგვიანებაზე, გაუქმებაზე, შეფერხებაზე ან ცვლილებაზე, რომელიც გამოწვეულია ჩვენი გონივრული კონტროლის მიღმა არსებული გარემოებებით, მათ შორის:",
+     "- მძიმე ამინდის პირობებით",
+     "- სახიფათო მთის პირობებით",
+     "- გზების ჩაკეტვით",
+     "- ტრანსპორტის შეფერხებით",
+     "- სახელმწიფო შეზღუდვებით",
+     "- ბუნებრივი მოვლენებით",
+     "- ჩვენს კონტროლს მიღმა არსებული აღჭურვილობის ან ინფრასტრუქტურის პრობლემებით",
+     "- დამოუკიდებელი მესამე მხარის მომსახურების მიმწოდებლების მოქმედებებით ან გადაწყვეტილებებით",
+     "წინამდებარე პირობების არცერთი დებულება არ გამორიცხავს პასუხისმგებლობას იმ შემთხვევაში, როდესაც ასეთი გამორიცხვა მოქმედი კანონმდებლობით აკრძალულია.",
+     "## კონფიდენციალურობა",
+     "ჯავშნის ან კომუნიკაციის დროს მიღებული პერსონალური ინფორმაცია მუშავდება Ride Gudauri-ის კონფიდენციალურობის პოლიტიკის შესაბამისად.",
+     "მომსახურების შესასრულებლად საჭიროების შემთხვევაში ინფორმაცია შესაძლოა გადაეცეს ინსტრუქტორებს, სატრანსპორტო კომპანიებს, აქტივობის მიმწოდებლებს, გადახდის პროვაიდერებს ან სხვა პარტნიორებს.",
+     "## პირობების ცვლილებები",
+     "Ride Gudauri შესაძლოა პერიოდულად განაახლოს წინამდებარე წესები და პირობები.",
+     "მოქმედი ვერსია გამოქვეყნდება ჩვენს ვებსაიტზე.",
+     "კონკრეტულ ჯავშანზე, როგორც წესი, ვრცელდება ის პირობები, რომლებიც მოქმედებდა ჯავშნის დადასტურების მომენტში, თუ კანონმდებლობით სხვაგვარად არ არის გათვალისწინებული.",
+     "## საკონტაქტო ინფორმაცია",
+     "ჯავშანთან, გაუქმებასთან ან წინამდებარე წესებსა და პირობებთან დაკავშირებული კითხვების შემთხვევაში დაგვიკავშირდით:",
+     "ელფოსტა: info@ridegudauri.com",
+     "ტელეფონი: +995 591 144 114",
+     "Ride Gudauri-ის მომსახურების დაჯავშნით ან მასში მონაწილეობით თქვენ ადასტურებთ, რომ წაიკითხეთ, გაიგეთ და ეთანხმებით წინამდებარე წესებსა და პირობებს."
+    ]
+   },
+   "privacy": {
+    "title": "კონფიდენციალურობის პოლიტიკა",
+    "blocks": [
+     "## მიზანი",
+     "Ride Gudauri-ში ჩვენ ვაფასებთ თქვენს კონფიდენციალურობას და ვზრუნავთ თქვენი პერსონალური ინფორმაციის დაცვაზე. წინამდებარე კონფიდენციალურობის პოლიტიკა განმარტავს, თუ როგორ ვაგროვებთ, ვიყენებთ, ვინახავთ და ვიცავთ ჩვენი ვებსაიტის ვიზიტორებისა და მომხმარებლების პერსონალურ მონაცემებს.",
+     "ჩვენი ვებსაიტის ან მომსახურების გამოყენებით თქვენ ადასტურებთ, რომ გაეცანით წინამდებარე პოლიტიკაში აღწერილ წესებს. ჩვენ შესაძლოა პერიოდულად განვაახლოთ ეს პოლიტიკა და გირჩევთ, დროდადრო გადაამოწმოთ მისი უახლესი ვერსია.",
+     "## განმარტებები",
+     "- Ride Gudauri – კომპანია, რომელიც გუდაურში, საქართველოში, მომხმარებლებს სთავაზობს სათხილამურო გაკვეთილებს, სათავგადასავლო აქტივობებს, ტრანსპორტირებას და მასთან დაკავშირებულ სხვა მომსახურებებს.",
+     "- პერსონალური მონაცემები — ნებისმიერი ინფორმაცია, რომელიც უკავშირდება იდენტიფიცირებულ ან იდენტიფიცირებად ფიზიკურ პირს, მათ შორის სახელი, ელფოსტა, ტელეფონის ნომერი, ადგილმდებარეობა და სხვა მონაცემები.",
+     "- მონაცემთა დამუშავება — პერსონალურ მონაცემებზე განხორციელებული ნებისმიერი მოქმედება, მათ შორის შეგროვება, შენახვა, გამოყენება, გაზიარება ან წაშლა.",
+     "- მონაცემთა სუბიექტი / მომხმარებელი — ფიზიკური პირი, რომლის პერსონალური მონაცემებიც მუშავდება.",
+     "- თანხმობა — მომხმარებლის მიერ ნებაყოფლობით გაცემული თანხმობა პერსონალური მონაცემების კონკრეტული მიზნით დამუშავებაზე.",
+     "- მონაცემთა დამუშავებისთვის პასუხისმგებელი პირი — Ride Gudauri, როგორც ორგანიზაცია, რომელიც განსაზღვრავს პერსონალური მონაცემების დამუშავების მიზნებსა და საშუალებებს.",
+     "- მესამე მხარე — ნებისმიერი პირი ან ორგანიზაცია, გარდა მომხმარებლისა, Ride Gudauri-ისა ან უფლებამოსილი მომსახურების მიმწოდებლისა.",
+     "## რა ინფორმაციას ვაგროვებთ",
+     "ჩვენი ვებსაიტის გამოყენებისას, ჩვენთან დაკავშირებისას ან ჯავშნის განხორციელებისას შესაძლოა შევაგროვოთ შემდეგი ინფორმაცია:",
+     "- სახელი",
+     "- ელფოსტის მისამართი",
+     "- ტელეფონის ნომერი",
+     "- ჯავშნის დეტალები",
+     "- აქტივობის პრეფერენციები",
+     "- მონაწილეთა რაოდენობა",
+     "- მომსახურების სასურველი თარიღები",
+     "- ელფოსტით, WhatsApp-ით ან სხვა საკომუნიკაციო არხებით მიმოწერის ისტორია",
+     "- ვებსაიტის გამოყენებასთან დაკავშირებული ინფორმაცია, რომელიც შეგროვებულია Cookies-ის ან მსგავსი ტექნოლოგიების საშუალებით",
+     "- გადახდასთან დაკავშირებული ინფორმაცია, როდესაც ეს აუცილებელია ტრანზაქციის დასამუშავებლად",
+     "გადახდის მონაცემები შესაძლოა დამუშავდეს სანდო მესამე მხარის გადახდის პროვაიდერების მიერ და შესაძლოა უშუალოდ Ride Gudauri-ში არ ინახებოდეს.",
+     "## როგორ ვიყენებთ თქვენს ინფორმაციას",
+     "თქვენი პერსონალური ინფორმაცია შესაძლოა გამოვიყენოთ შემდეგი მიზნებისთვის:",
+     "- ჯავშნების დამუშავებისა და მართვისთვის",
+     "- მოთხოვნილი მომსახურების გასაწევად",
+     "- თქვენთან დასაკავშირებლად შეკითხვების, ჯავშნების, ცვლილებებისა და მომსახურების დეტალების შესახებ",
+     "- ინსტრუქტორებთან, სატრანსპორტო კომპანიებთან, აღჭურვილობის მომწოდებლებთან და სხვა პარტნიორებთან მომსახურების კოორდინაციისთვის",
+     "- მომხმარებლებისა და ჯავშნების შესახებ ჩანაწერების წარმოებისთვის",
+     "- მომხმარებელთა სტატისტიკის ანალიზისა და მომსახურების გაუმჯობესებისთვის",
+     "- სარეკლამო შეთავაზებებისა და სიახლეების გასაგზავნად, თუ ეს კანონით ნებადართულია და თქვენ არ გაქვთ უარი ნათქვამი ასეთ კომუნიკაციაზე",
+     "- სამართლებრივი ვალდებულებების შესასრულებლად",
+     "- თაღლითობის თავიდან ასაცილებლად, ჩვენი უფლებების დასაცავად ან დავების მოსაგვარებლად",
+     "## მონაცემების გაზიარება",
+     "მომსახურების სრულყოფილად გასაწევად შესაძლოა აუცილებელი პერსონალური ინფორმაცია გავუზიაროთ სანდო მესამე მხარეებს.",
+     "ეს მხარეები შეიძლება იყვნენ:",
+     "- აქტივობის ორგანიზატორები",
+     "- სათხილამურო ან სნოუბორდის ინსტრუქტორები",
+     "- პარაპლანით ფრენის, სნოუმობილის ან სხვა სათავგადასავლო აქტივობის მიმწოდებლები",
+     "- სატრანსპორტო კომპანიები",
+     "- აღჭურვილობის მომწოდებლები",
+     "- გადახდის პროვაიდერები",
+     "- სხვა კომპანიები, რომლებიც მონაწილეობენ თქვენი ჯავშნის შესრულებაში",
+     "- სახელმწიფო ან სამართალდამცავი ორგანოები, თუ ინფორმაციის გადაცემა კანონით არის მოთხოვნილი",
+     "მომსახურების ტიპიდან გამომდინარე, შესაძლოა გავაზიაროთ თქვენი სახელი, ტელეფონის ნომერი, ელფოსტის მისამართი, ჯავშნის თარიღი, მონაწილეთა რაოდენობა ან აქტივობის დეტალები.",
+     "ჩვენ მოველით, რომ ჩვენი პარტნიორები პერსონალურ ინფორმაციას უსაფრთხოდ დაამუშავებენ და გამოიყენებენ მხოლოდ იმ მიზნით, რისთვისაც იგი გადაეცათ.",
+     "Ride Gudauri არ ყიდის თქვენს პერსონალურ მონაცემებს მესამე პირებზე.",
+     "## მონაცემთა შენახვა და უსაფრთხოება",
+     "ჩვენ ვიყენებთ გონივრულ ადმინისტრაციულ და ტექნიკურ ზომებს პერსონალური მონაცემების არასანქცირებული წვდომისგან, გამჟღავნებისგან, ცვლილებისგან, დაკარგვისგან ან არამართლზომიერი გამოყენებისგან დასაცავად.",
+     "პერსონალური მონაცემები ინახება მხოლოდ იმდენ ხანს, რამდენადაც ეს გონივრულად აუცილებელია მომსახურების გაწევის, ბიზნეს ჩანაწერების შენახვის, დავების მოგვარების ან სამართლებრივი მოთხოვნების შესრულებისთვის.",
+     "## თქვენი უფლებები",
+     "გამოსაყენებელი კანონმდებლობიდან გამომდინარე, შესაძლოა გქონდეთ უფლება:",
+     "- მოითხოვოთ თქვენ შესახებ დაცულ პერსონალურ მონაცემებზე წვდომა",
+     "- მოითხოვოთ არაზუსტი ან არასრული მონაცემების შესწორება",
+     "- მოითხოვოთ პერსონალური მონაცემების წაშლა, როდესაც ეს კანონით დასაშვებია",
+     "- გააპროტესტოთ ან შეზღუდოთ მონაცემთა გარკვეული ტიპის დამუშავება",
+     "- გააუქმოთ თანხმობა, თუ მონაცემთა დამუშავება ეფუძნება თქვენს თანხმობას",
+     "- უარი თქვათ მარკეტინგულ კომუნიკაციაზე",
+     "თქვენი უფლებების განსახორციელებლად დაგვიკავშირდით: info@ridegudauri.com.",
+     "## Cookies და ონლაინ თვალყურის დევნება",
+     "ჩვენი ვებსაიტი შესაძლოა იყენებდეს Cookies-ს და მსგავს ტექნოლოგიებს ვებსაიტის ფუნქციონალის გაუმჯობესების, ვიზიტორთა ქცევის შესწავლის, ტრაფიკის ანალიზისა და ჩვენი მომსახურების გაუმჯობესების მიზნით.",
+     "Cookies-ის მართვა ან გამორთვა შეგიძლიათ თქვენი ბრაუზერის პარამეტრებიდან. გარკვეული Cookies-ის გამორთვამ შესაძლოა გავლენა მოახდინოს ვებსაიტის ზოგიერთი ფუნქციის მუშაობაზე.",
+     "## მარკეტინგული კომუნიკაცია",
+     "კანონით ნებადართულ შემთხვევებში შესაძლოა გამოვიყენოთ თქვენი საკონტაქტო ინფორმაცია Ride Gudauri-ის სარეკლამო შეთავაზებების, სიახლეებისა და მომსახურებების შესახებ ინფორმაციის გასაგზავნად.",
+     "მარკეტინგული კომუნიკაციის მიღებაზე უარის თქმა შეგიძლიათ ნებისმიერ დროს, შესაბამის შეტყობინებაში მითითებული წესით ან ჩვენთან დაკავშირების გზით.",
+     "## ფოტო და ვიდეო გადაღება",
+     "Ride Gudauri-ის აქტივობების დროს შესაძლოა განხორციელდეს ფოტო და ვიდეო გადაღება.",
+     "თუ ასეთი მასალა შესაძლებელს ხდის კონკრეტული მონაწილის იდენტიფიცირებას და მისი გამოყენება იგეგმება სარეკლამო ან მარკეტინგული მიზნებისთვის, მონაწილეს შეუძლია წინასწარ აცნობოს ჩვენს თანამშრომლებს, თუ არ სურს ფოტოსა ან ვიდეოში გამოჩენა.",
+     "## მესამე მხარის მომსახურებები",
+     "ჩვენი ვებსაიტი ან მომსახურება შესაძლოა მოიცავდეს მესამე მხარის პლატფორმებს, გადახდის სერვისებს, საკომუნიკაციო საშუალებებს, ჯავშნის პარტნიორებს ან აქტივობის მიმწოდებლებს.",
+     "ასეთმა მესამე მხარეებმა პერსონალური ინფორმაცია შესაძლოა დაამუშაონ საკუთარი კონფიდენციალურობის პოლიტიკის შესაბამისად. Ride Gudauri პასუხისმგებელი არ არის დამოუკიდებელი მესამე მხარეების მონაცემთა დაცვის პრაქტიკაზე, რომელიც ჩვენს კონტროლს არ ექვემდებარება.",
+     "## კონფიდენციალურობის პოლიტიკის ცვლილებები",
+     "ჩვენ შესაძლოა პერიოდულად განვაახლოთ წინამდებარე კონფიდენციალურობის პოლიტიკა ჩვენი მომსახურების, კანონმდებლობის ან მონაცემთა დამუშავების პრაქტიკის ცვლილებების შესაბამისად.",
+     "პოლიტიკის უახლესი ვერსია ყოველთვის გამოქვეყნდება ჩვენს ვებსაიტზე.",
+     "საჭიროების შემთხვევაში მნიშვნელოვანი ცვლილებების შესახებ შესაძლოა დამატებით შეგატყობინოთ ელფოსტით ან ვებსაიტზე განთავსებული შეტყობინების საშუალებით.",
+     "## საკონტაქტო ინფორმაცია",
+     "წინამდებარე კონფიდენციალურობის პოლიტიკასთან ან თქვენი პერსონალური მონაცემების დამუშავებასთან დაკავშირებული კითხვების, მოთხოვნების ან პრეტენზიების შემთხვევაში დაგვიკავშირდით:",
+     "ელფოსტა: info@ridegudauri.com",
+     "ტელეფონი: +995 591 144 114",
+     "Ride Gudauri-ის ვებსაიტისა და მომსახურებების გამოყენებით თქვენ ადასტურებთ, რომ წაიკითხეთ და გაიგეთ წინამდებარე კონფიდენციალურობის პოლიტიკა."
+    ]
+   },
+   "blog": [
+    {
+     "slug": "a-calm-flight-above-caucasus",
+     "title": "მშვიდი ფრენა კავკასიონის თავზე",
+     "image": "/images/paragliding-tandem.jpg",
+     "date": "2026-08-12",
+     "excerpt": "გუდაურის მთების დათვალიერების მრავალი გზა არსებობს, თუმცა ცოტა თუ შეედრება მათ დანახვას ციდან.",
+     "body": [
+      "გუდაურის მთების დათვალიერების მრავალი გზა არსებობს, თუმცა ცოტა თუ შეედრება მათ დანახვას ციდან.",
+      "პარაპლანი გუდაურში გაძლევთ საოცარ შესაძლებლობას იფრინოთ კავკასიონის მთების თავზე და აღმოაჩინოთ ლანდშაფტი სრულიად განსხვავებული პერსპექტივიდან.",
+      "დათოვლილი მწვერვალებით, ღრმა ხეობებითა და ფართო მთის ფერდობებით გარშემორტყმული გუდაური საქართველოში პარაპლანით ტანდემში ფრენის ერთ-ერთი ყველაზე მიმზიდველი ადგილი გახდა.",
+      "### რას ნიშნავს ტანდემში ფრენა?",
+      "ტანდემში ფრენა მგზავრს საშუალებას აძლევს იფრინოს გამოცდილ პილოტთან ერთად.",
+      "წინასწარი ფრენის გამოცდილება საჭირო არ არის. აფრენამდე პილოტი განგიმარტავთ ძირითად პროცედურასა და უსაფრთხოების წესებს. როდესაც ყველაფერი მზად იქნება, მგზავრი და პილოტი ერთად აფრინდებიან მთიდან.",
+      "აფრენის შემდეგ პარაპლანი მაღლა იწევს, საიდანაც იშლება ისეთი პანორამული ხედები, რომელთა დანახვაც მიწიდან შეუძლებელია.",
+      "### რით არის გამორჩეული გუდაური?",
+      "გუდაური კავკასიონის მაღალმთიანეთში მდებარეობს და პარაპლანით ფრენისთვის შთამბეჭდავ გარემოს ქმნის.",
+      "ფრენისას თქვენ შეგიძლიათ დაინახოთ:",
+      "- დათოვლილი მთის მწვერვალები",
+      "- გუდაურის სათხილამურო ტრასები",
+      "- კავკასიონის ღრმა ხეობები",
+      "- საქართველოს სამხედრო გზა",
+      "- გარშემომყოფი მთის სოფლები",
+      "თითოეული ფრენა უნიკალურია, რადგან სიმაღლე, ხანგრძლივობა და მარშრუტი დამოკიდებულია ამინდსა და ქარის პირობებზე.",
+      "### არის თუ არა პარაპლანით ფრენა საშიში?",
+      "პირველ ფრენამდე ნერვიულობა სრულიად ბუნებრივია.",
+      "ჰაერში აფრენის შემდეგ ტანდემში ფრენა გასაოცრად მშვიდი და სასიამოვნოა. ვარდნის შეგრძნების ნაცვლად, თქვენ თანაბრად დანავარდობთ ცაში.",
+      "გამოცდილ პროფესიონალთან ერთად ფრენა საშუალებას გაძლევთ კონცენტრირდეთ ხედებზე და ისიამოვნოთ პროცესით.",
+      "### თავგადასავალი, რომელიც დიდხანს დაგამახსოვრდებათ",
+      "სათხილამუროდ ეწვევით გუდაურს თუ სპეციალურად მთის თავგადასავლებისთვის ჩამოხვალთ, პარაპლანით ფრენა საქართველოს აღმოჩენის უნიკალურ გზას გთავაზობთ.",
+      "ზემოდან დანახული კავკასიონის ხედი არის მოგონება, რომელიც თქვენთან დარჩება მოგზაურობის დასრულების შემდეგაც."
+     ]
+    },
+    {
+     "slug": "quad-bike-adventures-in-gudauri",
+     "title": "კვადრო ტურები გუდაურში",
+     "image": "/images/quad-bikes.jpg",
+     "date": "2026-08-12",
+     "excerpt": "გუდაური ცნობილია ზამთრის სპორტით, თუმცა მთები არანაკლებ შთამბეჭდავია თოვლის დნობის შემდეგაც. თბილ სეზონზე მწვანე ველები, მთის გზები, ღია სივრცეები და დაფარული ბილიკები ამ რეგიონს კვადრო ტურებისთვის იდეალურ ადგილად აქცევს. გამყოლთან ერთად კვადროციკლით გასეირნება საშუალებას გაძლევთ დაათვალიეროთ გუდაურის მიდამოები და დაათვალიეროთ ღირსშესანიშნაობები.",
+     "body": [
+      "### აღმოაჩინეთ მთები კვადროციკლით",
+      "გუდაური ცნობილია ზამთრის სპორტით, თუმცა მთები არანაკლებ შთამბეჭდავია თოვლის დნობის შემდეგაც. თბილ სეზონზე მწვანე ველები, მთის გზები, ღია სივრცეები და დაფარული ბილიკები ამ რეგიონს კვადრო ტურებისთვის იდეალურ ადგილად აქცევს. გამყოლთან ერთად კვადროციკლით გასეირნება საშუალებას გაძლევთ დაათვალიეროთ გუდაურის მიდამოები და დაათვალიეროთ ღირსშესანიშნაობები.",
+      "### რას მოიცავს კვადრო ტური?",
+      "კვადროციკლები (ATV) ოთხთვლიანი სატრანსპორტო საშუალებებია, რომლებიც სპეციალურად არის შექმნილი უსწორმასწორო რელიეფზე გადასადგილებლად. თავგადასავლის დაწყებამდე მონაწილეები გადიან საბაზისო ინსტრუქტაჟს, რომელიც მოიცავს აჩქარებას, დამუხრუჭებას, საჭის მართვას, სწორ ჯდომასა და უსაფრთხოების წესებს. ამის შემდეგ ჯგუფი გამოცდილ გზამკვლევს (გიდს) მიჰყვება დაგეგმილ მარშრუტზე.",
+      "### აღმოაჩინეთ გუდაურის მეორე მხარე",
+      "ზამთრის თოვლის გარეშე გუდაური სრულიად განსხვავებულ ხასიათს ავლენს. კვადროციკლის მარშრუტმა შესაძლოა გაგიყვანოთ ისეთ ადგილებში, სადაც შეხვდებით:",
+      "- მთის გზებს",
+      "- მწვანე ველებს",
+      "- ღია მინდვრებს",
+      "- ულამაზეს გადასახედებს",
+      "- სოფლის პეიზაჟებს",
+      "- კავკასიონის მთების შთამბეჭდავ ხედებს",
+      "ეს საუკეთესო საშუალებაა იმისთვის, რომ იმოგზაუროთ ბევრად შორს, ვიდრე ფეხით შეძლებდით, და ამავდროულად არ დაკარგოთ კავშირი გარშემომყოფ ბუნებასთან.",
+      "### იდეალურია თავგადასავლების მოყვარულთათვის",
+      "გამყოლთან ერთად გასეირნებისთვის კვადროციკლის მართვის წინასწარი გამოცდილება აუცილებელი არ არის. დამწყებები სწრაფად აითვისებენ მართვის საშუალებებს, ხოლო გამოცდილ მოყვარულებს შეუძლიათ ისიამოვნონ პეიზაჟებითა და ცვალებადი რელიეფით. მარშრუტი და გადაადგილების ტემპი ყოველთვის ერგება არსებულ პირობებსა და ჯგუფის გამოცდილებას.",
+      "### გამოსცადეთ გუდაური ზამთრის სეზონს მიღმა",
+      "გუდაური ხშირად უპირველეს ყოვლისა სამთო-სათხილამურო კურორტად აღიქმება, თუმცა ამ რეგიონს წლის ნებისმიერ დროს ბევრი რამის შეთავაზება შეუძლია. კვადროციკლით სეირნობა ვიზიტორებს სთავაზობს შესანიშნავ საშუალებას, დაათვალიერონ მთები გაზაფხულზე, ზაფხულსა და შემოდგომაზე. ყველას, ვისაც სურს შეუხამოს ერთმანეთს ბუნება, ღირსშესანიშნაობები და თავგადასავალი, კვადრო ტური გუდაურში მოგზაურობის შესანიშნავი შესაძლებლობაა."
+     ]
+    },
+    {
+     "slug": "rafting-in-georgia",
+     "title": "ჯომარდობა საქართველოში",
+     "image": "/images/rafting.webp",
+     "date": "2026-08-12",
+     "excerpt": "საქართველო ცნობილია თავისი მთებით, თუმცა მისი მდინარეები ქვეყნის ბუნებრივი ლანდშაფტის დათვალიერების კიდევ ერთ არაჩვეულებრივ საშუალებას გთავაზობთ. როდესაც მთებით, ტყეებითა და ხეობებით გარშემორტყმულ მდინარეზე მიცურავთ, ჯომარდობა აერთიანებს თავგადასავალს, გუნდურად მუშაობასა და ულამაზეს პეიზაჟებს. მოგზაურებისთვის, რომლებიც აქტიურ დასვენებას ეძებენ, ჯომარდობა საქართველოში მოგზაურობის ერთ-ერთი ყველაზე შთამბეჭდავი ნაწილი შეიძლება გახდეს.",
+     "body": [
+      "### აღმოაჩინეთ ქვეყნის ველური მდინარეები",
+      "საქართველო ცნობილია თავისი მთებით, თუმცა მისი მდინარეები ქვეყნის ბუნებრივი ლანდშაფტის დათვალიერების კიდევ ერთ არაჩვეულებრივ საშუალებას გთავაზობთ. როდესაც მთებით, ტყეებითა და ხეობებით გარშემორტყმულ მდინარეზე მიცურავთ, ჯომარდობა აერთიანებს თავგადასავალს, გუნდურად მუშაობასა და ულამაზეს პეიზაჟებს. მოგზაურებისთვის, რომლებიც აქტიურ დასვენებას ეძებენ, ჯომარდობა საქართველოში მოგზაურობის ერთ-ერთი ყველაზე შთამბეჭდავი ნაწილი შეიძლება გახდეს.",
+      "### რას მოიცავს ჯომარდობის ტური?",
+      "მდინარეში შესვლამდე მონაწილეები იღებენ უსაფრთხოების აღჭურვილობასა და ინსტრუქტაჟს გამოცდილი გიდებისგან. სტანდარტული ტური იწყება შესავლით, რომელიც მოიცავს წყალზე მოსმის ტექნიკას, საკომუნიკაციო ბრძანებებსა და სხვადასხვა სიტუაციაში მოქმედების წესებს. როდესაც ყველაფერი მზად არის, ჯგუფი გიდთან ერთად ეშვება მდინარეზე. მგზავრობისას მონაწილეები ერთად უსვამენ ნიჩბებს, რათა გადალახონ მდინარის სხვადასხვა მონაკვეთი.",
+      "### არის თუ არა საჭირო წინასწარი გამოცდილება?",
+      "ბევრი მარშრუტი სრულიად შესაფერისია დამწყებთათვის, თუმცა პირობები და სირთულე იცვლება მდინარისა და სეზონის მიხედვით. პროფესიონალი გიდები ირჩევენ შესაბამის მარშრუტებს წყლის დონისა და ჯგუფის გამოცდილების გათვალისწინებით. ყველაზე მნიშვნელოვანია ყურადღებით მოუსმინოთ თქვენს გიდს და მიჰყვეთ უსაფრთხოების ინსტრუქციებს.",
+      "### ჯომარდობა გუნდური თავგადასავალია",
+      "ჯომარდობის ერთ-ერთი საუკეთესო მხარე ის არის, რომ მასში თითოეული წევრი მონაწილეობს. მეგობრებს, ოჯახებს, კოლეგებსა და ჯგუფებს შეუძლიათ ერთად იმუშაონ და ერთდროულად ისიამოვნონ აქტიური დასვენებით. მდინარის სწრაფ მონაკვეთებს შორის ხშირად არის უფრო მშვიდი წუთები, როდესაც შეგიძლიათ დატკბეთ გარშემო არსებული პეიზაჟებით.",
+      "### როდის არის ხელმისაწვდომი ჯომარდობის ტურები?",
+      "ჯომარდობა დიდად არის დამოკიდებული წყლის დონესა და ამინდზე. სხვადასხვა მდინარე შეიძლება წლის სხვადასხვა დროს იყოს ოპტიმალური. ვინაიდან მდინარის პირობები შეიძლება შეიცვალოს, ტურები ყოველთვის მიმდინარე უსაფრთხოების ნორმების დაცვით უნდა მოეწყოს. თავგადასავლების მოყვარულთათვის, რომლებიც საქართველოს ეწვევიან, ჯომარდობა ქვეყნის სრულიად განსხვავებული მხარის აღმოჩენის საინტერესო გზაა."
+     ]
+    },
+    {
+     "slug": "ski-lessons-in-gudauri",
+     "title": "სათხილამურო გაკვეთილები გუდაურში",
+     "image": "/images/ski-lesson.jpg",
+     "date": "2026-08-12",
+     "excerpt": "გუდაური საქართველოში ერთ-ერთი ყველაზე პოპულარული სამთო-სათხილამურო კურორტია, რომელიც გამოირჩევა ფართო ტრასებით, ულამაზესი მთის ხედებითა და შესანიშნავი პირობებით როგორც დამწყებთათვის, ასევე გამოცდილი მოთხილამურეებისთვის. მიუხედავად იმისა, თხილამურებზე პირველად დგებით თუ ტექნიკის გაუმჯობესება გსურთ, პროფესიონალური სათხილამურო გაკვეთილები მთაში გატარებულ დროს უფრო უსაფრთხოს, მარტივსა და ბევრად სასიამოვნოს გახდის.",
+     "body": [
+      "### ისწავლეთ თხილამურებით სრიალი თავდაჯერებულად",
+      "გუდაური საქართველოში ერთ-ერთი ყველაზე პოპულარული სამთო-სათხილამურო კურორტია, რომელიც გამოირჩევა ფართო ტრასებით, ულამაზესი მთის ხედებითა და შესანიშნავი პირობებით როგორც დამწყებთათვის, ასევე გამოცდილი მოთხილამურეებისთვის. მიუხედავად იმისა, თხილამურებზე პირველად დგებით თუ ტექნიკის გაუმჯობესება გსურთ, პროფესიონალური სათხილამურო გაკვეთილები მთაში გატარებულ დროს უფრო უსაფრთხოს, მარტივსა და ბევრად სასიამოვნოს გახდის.",
+      "### რატომ უნდა ისარგებლოთ სათხილამურო გაკვეთილებით გუდაურში?",
+      "კვალიფიციურ ინსტრუქტორთან ერთად სრიალის სწავლა თავიდანვე სწორი ჩვევების ჩამოყალიბებაში გეხმარებათ. იმის ნაცვლად, რომ დამოუკიდებლად იწვალოთ წონასწორობის დაჭერის, მოხვევისა და დამუხრუჭების ათვისებაზე, ინსტრუქტორი ეტაპობრივად გაგიძღვებათ და გაკვეთილს თქვენს დონეს მოარგებს. დამწყებები, როგორც წესი, იწყებენ აღჭურვილობის ბაზისური გამოყენებით, სხეულის სწორი პოზიციით, გაჩერებითა და კონტროლირებადი მოხვევებით. თავდაჯერებულობის მატებასთან ერთად, გაკვეთილები შეიძლება გაგრძელდეს უფრო ციცაბო ფერდობებზე, პარალელური სრიალის, კარვინგის ტექნიკისა და მთაში სრიალის უფრო რთული უნარების ათვისებით.",
+      "### გაკვეთილები ნებისმიერი დონისთვის",
+      "სათხილამურო გაკვეთილები მხოლოდ სრულიად დამწყებთათვის არ არის განკუთვნილი. პროფესიონალური სწავლება ასევე გამოადგებათ საშუალო და მაღალი დონის მოთხილამურეებს. ინსტრუქტორი დაგეხმარებათ გააუმჯობესოთ:",
+      "- წონასწორობა და სხეულის პოზიცია",
+      "- მოხვევის ტექნიკა",
+      "- სიჩქარის კონტროლი",
+      "- კარვინგი (ჭრით სრიალი)",
+      "- თავდაჯერებულობა უფრო ციცაბო ფერდობებზე",
+      "- მთაში უსაფრთხოების ზოგადი წესები",
+      "ინდივიდუალური გაკვეთილები განსაკუთრებით ეფექტურია, რადგან ინსტრუქტორს შეუძლია მთლიანად თქვენს პირად ტექნიკასა და პროგრესზე მოახდინოს კონცენტრირება.",
+      "### აღმოაჩინეთ გუდაური უსაფრთხოდ",
+      "გუდაური სრიალისთვის საოცარ გარემოს სთავაზობს ვიზიტორებს, თუმცა მთაში პირობები შეიძლება სწრაფად შეიცვალოს. ტრასის წესების, ამინდის პირობებისა და უსაფრთხო სრიალის პრაქტიკის ცოდნა მნიშვნელოვანი ნაწილია იმისთვის, რომ გახდეთ თავდაჯერებული მოთხილამურე. პროფესიონალურ ინსტრუქტაჟთან ერთად, ნაკლებ დროს დახარჯავთ ტექნიკაზე დარდში და მეტ დროს დაუთმობთ მთებით ტკბობას. მიუხედავად იმისა, გუდაურს უქმეებზე ეწვევით თუ სრული სათხილამურო შვებულებით, სათხილამურო გაკვეთილით სარგებლობა ერთ-ერთი საუკეთესო საშუალებაა ტრასებზე დროის მაქსიმალურად ეფექტურად გასატარებლად."
+     ]
+    },
+    {
+     "slug": "snowmobiling-in-gudauri",
+     "title": "ბურანის ტურები გუდაურში",
+     "image": "/images/snowmobile.jpg",
+     "date": "2026-08-12",
+     "excerpt": "თხილამურებით სრიალი შეიძლება იყოს ის აქტივობა, რომელიც ყველაზე მეტად ასოცირდება გუდაურთან, თუმცა ის შორს არის კავკასიონის დათოვლილი მთების დათვალიერების ერთადერთი გზისგან. ბურანით (თოვლის მავალით) გადაადგილება გთავაზობთ შესანიშნავ შესაძლებლობას იმოგზაუროთ ზამთრის პეიზაჟებში, მთის ბილიკებსა და თოვლით დაფარულ არემარეში, თანაც გამოსცადოთ თოვლის მავალის სიმძლავრე და თავისუფლება.",
+     "body": [
+      "### აღმოაჩინეთ მთები სათხილამურო ტრასებს მიღმა",
+      "თხილამურებით სრიალი შეიძლება იყოს ის აქტივობა, რომელიც ყველაზე მეტად ასოცირდება გუდაურთან, თუმცა ის შორს არის კავკასიონის დათოვლილი მთების დათვალიერების ერთადერთი გზისგან. ბურანით (თოვლის მავალით) გადაადგილება გთავაზობთ შესანიშნავ შესაძლებლობას იმოგზაუროთ ზამთრის პეიზაჟებში, მთის ბილიკებსა და თოვლით დაფარულ არემარეში, თანაც გამოსცადოთ თოვლის მავალის სიმძლავრე და თავისუფლება.",
+      "### რატომ უნდა სცადოთ ბურანი გუდაურში?",
+      "ბურანს შეუძლია გადაადგილდეს ისეთ რელიეფზე, რომლის ფეხით დათვალიერებასაც გაცილებით მეტი დრო დასჭირდებოდა. ამინდისა და თოვლის პირობების მიხედვით, ბურანით შეიძლება მიხვიდეთ ყველაზე დატვირთული სათხილამურო ტრასებისგან მოშორებულ ადგილებში, რაც გუდაურის მთის პეიზაჟის სრულიად სხვა პერსპექტივას დაგანახვებთ. ის აერთიანებს ღირსშესანიშნაობების დათვალიერებასა და თავგადასავალს, რაც მას შესანიშნავ აქტივობად აქცევს ვიზიტორებისთვის, რომლებიც ზამთრის შვებულების დროს რაღაც განსხვავებულს ეძებენ.",
+      "### გჭირდებათ თუ არა გამოცდილება?",
+      "დამწყებთათვის განკუთვნილი ტურებისთვის, წინასწარი გამოცდილება, როგორც წესი, არ არის საჭირო. დაწყებამდე მონაწილეები იღებენ ინსტრუქციას ბურანის მართვის, უსაფრთხო სიჩქარის შენარჩუნების, დამუხრუჭების, მოხვევისა და გიდის მიყოლის შესახებ. თქვენი გიდის ყურადღებით მოსმენა განსაკუთრებით მნიშვნელოვანია, რადგან მთაში თოვლისა და ხილვადობის პირობები შეიძლება შეიცვალოს.",
+      "### უსაფრთხოება პირველ ადგილზეა",
+      "მთის გარემოს ყოველთვის პატივისცემით უნდა მოვეპყროთ. მარშრუტები და ტურის პირობები შეიძლება დამოკიდებული იყოს შემდეგზე:",
+      "- თოვლის სიღრმე",
+      "- ხილვადობა",
+      "- ამინდი",
+      "- ქარი",
+      "- რელიეფის პირობები",
+      "პროფესიონალური ხელმძღვანელობა უზრუნველყოფს, რომ მარშრუტი შეესაბამებოდეს უსაფრთხო პირობებს.",
+      "### შემატეთ რაღაც განსხვავებული თქვენს დასვენებას გუდაურში",
+      "თოვლის მავალით სრიალი შესანიშნავი დამატებაა სათხილამურო ან სნოუბორდის ტურისთვის, განსაკუთრებით მაშინ, როდესაც გსურთ გარკვეული დრო გაატაროთ საბაგიროებისგან მოშორებით. ულამაზესი ზამთრის პეიზაჟებითა და გარშემორტყმული შთამბეჭდავი კავკასიონის მთებით, გუდაურში ბურანით სრიალი გთავაზობთ აღმოჩენებისა და თავგადასავლების ამაღელვებელ კომბინაციას."
+     ]
+    },
+    {
+     "slug": "travel-comfortably-with-ride-gudauri",
+     "title": "იმოგზაურეთ კომფორტულად Ride Gudauri-სთან ერთად",
+     "image": "/images/transfer.jpg",
+     "date": "2026-08-12",
+     "excerpt": "საქართველოში მოგზაურობა დაუვიწყარი გამოცდილებაა, თუმცა აეროპორტებს, სამთო კურორტებს, ქალაქებსა და ღირსშესანიშნაობებს შორის გადაადგილება ზოგჯერ გარკვეულ სირთულეებთან არის დაკავშირებული. საიმედო კერძო ტრანსფერი საშუალებას გაძლევთ ისიამოვნოთ მგზავრობით ნავიგაციაზე, ტრანსპორტის განრიგსა თუ გზის პირობებზე დარდის გარეშე.",
+     "body": [
+      "საქართველოში მოგზაურობა დაუვიწყარი გამოცდილებაა, თუმცა აეროპორტებს, სამთო კურორტებს, ქალაქებსა და ღირსშესანიშნაობებს შორის გადაადგილება ზოგჯერ გარკვეულ სირთულეებთან არის დაკავშირებული. საიმედო კერძო ტრანსფერი საშუალებას გაძლევთ ისიამოვნოთ მგზავრობით ნავიგაციაზე, ტრანსპორტის განრიგსა თუ გზის პირობებზე დარდის გარეშე.",
+      "Ride Gudauri გთავაზობთ კომფორტულ ტრანსფერებსა და ტურებს, რომლებიც სპეციალურად არის შექმნილი გუდაურისა და საქართველოს სხვა მიმართულებების ვიზიტორებისთვის.",
+      "### აეროპორტის ტრანსფერები გუდაურის მიმართულებით",
+      "ბევრი მოგზაურისთვის თავგადასავალი თბილისის ან ქუთაისის საერთაშორისო აეროპორტში იწყება. კერძო ტრანსფერი უზრუნველყოფს მოხერხებულ გადაადგილებას პირდაპირ აეროპორტიდან გუდაურამდე. რამდენიმე სხვადასხვა ტრანსპორტის დაგეგმვის ნაცვლად, შეგიძლიათ ბარგთან ერთად კომფორტულად იმგზავროთ პირდაპირ სასტუმრომდე. ზამთრის პერიოდში გამოცდილი მძღოლები განსაკუთრებით მნიშვნელოვანია, რადგან მთის გზებზე ხშირად არის თოვლი და ცვალებადი ამინდი.",
+      "### მეტი, ვიდრე უბრალოდ ტრანსპორტირება",
+      "კერძო ტრანსფერი ასევე შეიძლება გახდეს თქვენი ქართული მოგზაურობის შემადგენელი ნაწილი. საქართველოში უამრავი აღმოჩენის ღირსი ადგილია, მათ შორის ისტორიული ქალაქები, მთის სოფლები, მონასტრები, ბუნებრივი ლანდშაფტები და ტრადიციული მეღვინეობის რეგიონები. თქვენი მარშრუტის მიხედვით, კერძო ტურები გაძლევთ მოქნილობას, აღმოაჩინოთ ქვეყანა თქვენთვის სასურველი ტემპით.",
+      "### კომფორტული მგზავრობა ინდივიდუალური მოგზაურებისა და ჯგუფებისთვის",
+      "ტრანსფერები იდეალურია:",
+      "- ინდივიდუალური მოგზაურებისთვის",
+      "- წყვილებისთვის",
+      "- ოჯახებისთვის",
+      "- მეგობრების ჯგუფებისთვის",
+      "- მოთხილამურეთა ჯგუფებისთვის",
+      "- თავგადასავლების მოყვარულთათვის",
+      "საკუთარი ტრანსპორტის ქონა ასევე მნიშვნელოვნად ამარტივებს გადაადგილებას სათხილამურო აღჭურვილობითა და ბარგით.",
+      "### ისიამოვნეთ მგზავრობით",
+      "საქართველო ისეთი ქვეყანაა, სადაც თავად გზა ხშირად ისეთივე ლამაზია, როგორც დანიშნულების ადგილი. გუდაურისკენ მიმავალი გზა გადის შთამბეჭდავ ხეობებზე, ისტორიულ ღირსშესანიშნაობებსა და ულამაზეს მთის პეიზაჟებზე. პროფესიონალური ტრანსფერის არჩევა საშუალებას გაძლევთ მოდუნდეთ და დატკბეთ ხედებით, სანამ გამოცდილი მძღოლი გზას მართავს."
+     ]
+    }
+   ]
+  },
+  "ru": {
+   "services": {
+    "ski-instructor": {
+     "title": "Инструктор по катанию на лыжах",
+     "description": [
+      "В Ride Gudauri мы верим, что обучение катанию на лыжах или сноуборде должно быть чем-то большим, чем просто урок — это незабываемое горное приключение. Находясь в самом сердце Большого Кавказа, мы предлагаем услуги профессиональных, сертифицированных инструкторов, которые сделают каждое занятие безопасным, увлекательным и идеально adapted под ваш уровень.",
+      "Независимо от того, являетесь ли вы новичком, делающим первые повороты, любителем, совершенствующим технику, или опытным райдером в поисках новых вызовов, наши опытные инструкторы помогут вам прогрессировать с уверенностью. Каждый урок адаптируется под ваши навыки, цели и темп, гарантируя, что вы получите максимум от времени, проведенного на склонах.",
+      "Наша команда сочетает в себе международную сертификацию, современные методики обучения и многолетний местный опыт, что делает нас одним из самых надежных выборов для обучения катанию на лыжах и сноуборде в Гудаури. Присоединяйтесь к нам этой зимой и откройте для себя идеальный баланс профессионального руководства, безопасности и веселья — ведь с Ride Gudauri каждый спуск — это шаг к покорению гор.",
+      "При бронировании вы оплачиваете 20% от стоимости занятия онлайн для подтверждения места. Оставшаяся сумма выплачивается наличными при личной встрече перед началом занятия."
+     ],
+     "url": "https://ridegudauri.com/ru/activity/ski-instructor/"
+    },
+    "snowmobile": {
+     "title": "Снегоход",
+     "description": [
+      "Ощутите драйв от катания на снегоходе в Гудаури под руководством наших опытных местных инструкторов, которые обеспечат вашу безопасность и максимум удовольствия на протяжении всей поездки.",
+      "Каждый тур проходит в сопровождении профессионального гида, который покажет вам лучшие живописные маршруты и окажет помощь в любой момент.",
+      "В целях безопасности катание двоих взрослых на одном снегоходе запрещено.",
+      "Если вы не хотите управлять снегоходом самостоятельно, наш опытный гид может сесть за руль — все гиды обучены безопасно и комфортно водить снегоход с дополнительным весом."
+     ],
+     "url": "https://ridegudauri.com/ru/activity/snowmobile/"
+    },
+    "paragliding": {
+     "title": "Полеты на параплане",
+     "description": [
+      "Испытайте незабываемый трепет от полета на параплане над Гудаури — парите над потрясающими вершинами Большого Кавказа вместе с нашей командой сертифицированных и опытных пилотов. Мы делаем каждый полет безопасным, плавным и действительно незабываемым. Почувствуйте ветер, насладитесь панорамными видами гор и ощутите свободу полета в одном из самых красивых мест Грузии.",
+      "Насладитесь захватывающим полетом на параплане над Гудаури, откуда открывается панорамный вид на Большой Кавказский хребет. Длительность полета составляет 10–15 минут. В стоимость входит видеосъемка вашего полета и трансфер — если вы приземлитесь в другом месте, наша команда обеспечит ваше безопасное и комфортное возвращение. Отправьтесь в полет и увидьте Гудаури с совершенно нового ракурса — незабываемое приключение, доступное круглый год."
+     ],
+     "url": "https://ridegudauri.com/ru/activity/paragliding/"
+    },
+    "quad-bike": {
+     "title": "Квадроцикл",
+     "description": [
+      "Испытайте захватывающее 1-часовое внедорожное приключение по живописному каньону, ведущее к красивому горному озеру. По пути вы увидите руины исторического замка.",
+      "Управляйте транспортом самостоятельно, пока опытный гид ведет вас по маршруту, обеспечивая безопасную и комфортную поездку.",
+      "Доступно круглый год. Это приключение идеально подходит для любителей природы и всех, кто хочет весело и увлекательно исследовать потрясающие пейзажи Гудаури."
+     ],
+     "url": "https://ridegudauri.com/ru/activity/quad-bike/"
+    },
+    "rafting": {
+     "title": "Рафтинг",
+     "description": [
+      "Рафтинг — одно из самых захватывающих летних приключений в Грузии, которое идеально подойдет любителям природы и адреналина. Начиная с мая, сразу после окончания зимнего сезона, гости могут отправиться в туры в сопровождении гидов, наслаждаясь потрясающими горными пейзажами и освежающим воздухом Большого Кавказа.",
+      "Под руководством опытных гидов эти туры безопасны, увлекательны и подходят как для новичков, так и для опытных искателей приключений. Это идеальный летний отдых для тех, кто хочет получить незабываемые впечатления на свежем воздухе недалеко от Гудаури."
+     ],
+     "url": "https://ridegudauri.com/ru/activity/rafting/"
+    },
+    "transfers-and-tours": {
+     "title": "Трансферы и туры",
+     "description": [
+      "Комфортные трансферы из Тбилиси до горнолыжных склонов Гудаури или завораживающих пейзажей Казбеги. Наши авторские туры откроют для вас самые сокровенные и живописные уголки регионов Гудаури и Казбеги."
+     ],
+     "url": "https://ridegudauri.com/ru/activity/transfers-and-tours/"
+    }
+   },
+   "faq": [
+    {
+     "id": "01",
+     "category": "ОБЩИЙ",
+     "q": "Как забронировать активности в Ride Gudauri?",
+     "a": [
+      "Забронировать услуги в Ride Gudauri легко. Просто зайдите на наш сайт и заполните форму бронирования, указав желаемую активность, дату и время. Наша команда подтвердит детали вашего бронирования по электронной почте или телефону."
+     ]
+    },
+    {
+     "id": "02",
+     "category": "ОБЩИЙ",
+     "q": "Как забронировать несколько активностей в одной брони?",
+     "a": [
+      "Конечно! Вы можете забронировать различные активности, включая катание на лыжах, парапланеризм, снегоходы, катание на квадроциклах, в рамках одного бронирования. Наша команда поможет составить расписание для вашего максимального удобства."
+     ]
+    },
+    {
+     "id": "03",
+     "category": "ОБЩИЙ",
+     "q": "Что мне надеть и взять с собой для активностей на свежем воздухе?",
+     "a": [
+      "Одевайтесь соответственно виду активности и погодным условиям. Для катания на лыжах надевайте многослойную одежду и берите с собой водонепроницаемую вещи. Если вы летите на параплане, надевайте удобную одежду. Конкретные требования будут предоставлены при бронировании."
+     ]
+    },
+    {
+     "id": "04",
+     "category": "ОБЩИЙ",
+     "q": "Требуется ли предварительный опыт для участия в активностях?",
+     "a": [
+      "Для большинства активностей предварительный опыт не требуется. Наши сертифицированные инструкторы и гиды работают с любым уровнем подготовки, обеспечивая безопасность и комфорт для каждого."
+     ]
+    },
+    {
+     "id": "05",
+     "category": "ОБЩИЙ",
+     "q": "Что произойдет в случае плохой погоды в день моего бронирования?",
+     "a": [
+      "Ваша безопасность — наш приоритет. В случае неблагоприятных погодных условий нам может потребоваться перенести или, при необходимости, отменить активность. Мы сообщим вам о любых изменениях заранее."
+     ]
+    },
+    {
+     "id": "06",
+     "category": "ОБЩИЙ",
+     "q": "Могу ли я арендовать снаряжение в Ride Gudauri?",
+     "a": [
+      "Да, мы предлагаем аренду снаряжения для различных активностей. Лыжи, снаряжение для парапланеризма и другое необходимое оборудование можно арендовать прямо у нас на месте."
+     ]
+    },
+    {
+     "id": "07",
+     "category": "ОБЩИЙ",
+     "q": "Как мне оплатить занятие, тур или аренду снаряжения?",
+     "a": [
+      "При онлайн-бронировании вы оплачиваете сбор за бронирование, чтобы закрепить место; точная сумма видна в форме до подтверждения. Остаток оплачивается лично на месте встречи перед началом активности. Детали оплаты можно уточнить у нашей команды."
+     ]
+    },
+    {
+     "id": "08",
+     "category": "ОБЩИЙ",
+     "q": "Есть ли возрастные ограничения для участия в активностях?",
+     "a": [
+      "Ride Gudauri рад участникам всех возрастов. Конкретные возрастные требования для каждого вида активности будут предоставлены при бронировании."
+     ]
+    },
+    {
+     "id": "09",
+     "category": "ОБЩИЙ",
+     "q": "Могу ли я привезти свое собственное снаряжение?",
+     "a": [
+      "Да, вы можете привезти свое собственное снаряжение. Однако, если вам потребуется аренда, мы предоставляем высококачественное оборудование, чтобы обеспечить вам комфортный и приятный отдых."
+     ]
+    },
+    {
+     "id": "10",
+     "category": "ОБЩИЙ",
+     "q": "Как мне связаться с Ride Gudauri, если у меня возникнут дополнительные вопросы или пожелания?",
+     "a": [
+      "Если у вас возникнут дополнительные вопросы, свяжитесь с нашей командой с помощью контактной информации на сайте. Мы всегда готовы помочь и сделать ваш отдых с Ride Gudauri незабываемым."
+     ]
+    },
+    {
+     "id": "11",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Нужен ли мне опыт катания на лыжах, чтобы брать уроки в Ride Gudauri?",
+     "a": [
+      "Опыт катания не требуется! Мы работаем с райдерами любого уровня — от абсолютных новичков до опытных лыжников. Наши сертифицированные инструкторы адаптруют уроки под ваши индивидуальные навыки."
+     ]
+    },
+    {
+     "id": "12",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Какой у меня уровень подготовки?",
+     "a": [
+      "Узнайте, как определить ваш уровень для вашего инструктора, и начните свои занятия с правильной ноги. Знание вашего уровня поможет задать тон для вашего урока и запустит ваш прогресс на полную мощность.",
+      "Новичок (Уровень 1): Описание: Этот уровень для людей, которые никогда раньше не катались на лыжах или имеют минимальный опыт. Навыки: Обучение тому, как надевать и снимать лыжное снаряжение. Освоение базовой стойки и баланса на лыжах. Обучение скольжению, выполнению поворотов и контролю скорости на пологих склонах. Развитие способности безопасно останавливаться. Знакомство с использованием подъемников.",
+      "Средний (Уровень 2): Описание: Участники на этом уровне обладают базовыми навыками катания на лыжах и готовы перейти к более сложному рельефу. Навыки: Совершенствование навыков поворота на разнообразном рельефе. Укрепление уверенности на более крутых склонах. Знакомство с карвинговыми поворотами. Обучение параллельному катанию на лыжах и плавному связыванию поворотов. Развитие базовых навыков для работы с различными снеговыми условиями.",
+      "Продвинутый средний (Уровень 3): Описание: Лыжники на этом уровне чувствуют себя комфортно на большинстве склонов среднего уровня и готовы к более продвинутым техническим приемам. Навыки: Освоение параллельного катания на лыжах на более крутых склонах. Знакомство с внетрассовым (неподготовленным) рельефом. Совершенствование техники карвинга. Улучшение использования палок для баланса и поворота. Укрепление уверенности в различных снеговых условиях."
+     ]
+    },
+    {
+     "id": "13",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Где находится место встречи для урока по лыжам или сноуборду?",
+     "a": [
+      "Школа катания Ride Gudauri предлагает несколько мест встречи, включая:",
+      "— На верхней станции гондольного подъемника, у флага Ride Gudauri.",
+      "— На нижней станции гондольного подъемника, перед Dunkin Donuts.",
+      "— Около касс продажи ски-пассов в отеле Marco Polo.",
+      "— На склоне у флага Ride Gudauri неподалеку от отеля Gudauri Lodge.",
+      "— Если вы арендуете снаряжение у нас, мы встретим вас рядом с отелем Carpe Diem Gudauri, и оттуда вы сразу отправитесь к центральному подъемнику.",
+      "Наша команда свяжется с вами, чтобы согласовать точку встречи, учитывая место вашего проживания для большего удобства."
+     ]
+    },
+    {
+     "id": "14",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Где и как я могу оплатить урок и аренду снаряжения?",
+     "a": [
+      "При онлайн-бронировании вы оплачиваете сбор за бронирование, чтобы закрепить место; точная сумма видна в форме до подтверждения. Остаток оплачивается лично на месте встречи перед началом активности. Детали оплаты можно уточнить у нашей команды."
+     ]
+    },
+    {
+     "id": "15",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Как мне связаться с Ride Gudauri, если у меня возникнут дополнительные вопросы?",
+     "a": [
+      "Если у вас возникнут дополнительные вопросы, свяжитесь с нашей командой по контактным данным, указанным на нашем сайте. Мы всегда готовы помочь вам и сделать ваш отдых с Ride Gudauri незабываемым."
+     ]
+    },
+    {
+     "id": "16",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Как мне одеться и что взять с собой на урок катания на лыжах?",
+     "a": [
+      "Одевайтесь многослойно в водонепроницаемую одежду, надевайте перчатки и берите с собой горнолыжные очки. Не забудьте взять лыжные ботинки, если они у вас есть. Если вы арендуете снаряжение, у нас есть все необходимое."
+     ]
+    },
+    {
+     "id": "17",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Могу ли я арендовать лыжное снаряжение в Ride Gudauri?",
+     "a": [
+      "Да, мы предлагаем прокат горнолыжного снаряжения. Вы можете арендовать лыжи, ботинки и палки прямо у нас. Наш персонал подберет для вас подходящую экипировку, чтобы вам было комфортно и удобно."
+     ]
+    },
+    {
+     "id": "18",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Что происходит в случае плохой погоды в день моего бронирования?",
+     "a": [
+      "Ваша безопасность — наш приоритет. В случае неблагоприятных погодных условий нам может потребоваться перенести или, при необходимости, отменить занятие. Мы сделаем все возможное, чтобы сообщить вам о любых изменениях заранее."
+     ]
+    },
+    {
+     "id": "19",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Сколько уроков катания на лыжах мне нужно?",
+     "a": [
+      "Мы настоятельно рекомендуем бронировать не менее 4 уроков для всех, независимо от уровня подготовки. Это дает достаточно времени с инструктором, чтобы действительно сосредоточиться на определенных аспектах техники, улучшить навыки катания на лыжах или сноуборде, обрести уверенность на новом рельефе и получать больше удовольствия на склоне. Даже самые опытные лыжники и сноубордисты замечают огромные изменения после 4 занятий с профессиональным инструктором. Лыжи и сноуборд — это виды спорта, в которых можно совершенствоваться бесконечно, и чем лучше у вас получается, тем больше удовольствия вы получаете!"
+     ]
+    },
+    {
+     "id": "20",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Как далеко заранее мне нужно забронировать?",
+     "a": [
+      "Как можно раньше! Мы настоятельно рекомендуем бронировать инструктора по лыжам или сноуборду сразу после того, как вы подтвердите даты вашей поездки в Грузию. У нас часто все забронировано более чем за месяц до начала февральских каникул."
+     ]
+    },
+    {
+     "id": "21",
+     "category": "ЛЫЖНАЯ ШКОЛА",
+     "q": "Я хочу уроки утром, но они распроданы, что мне делать?",
+     "a": [
+      "Катание на сноуборде или лыжах в Гудаури во второй половине дня имеет множество преимуществ! На склонах меньше людей, солнце прогревает снег, делая его мягче и комфортнее для катания, а занятия в самое теплое время суток приносят больше удовольствия, так как пальцы не замерзают. Кроме того, во второй половине дня у нас обычно больше свободных мест для уроков."
+     ]
+    },
+    {
+     "id": "22",
+     "category": "ПАРАПЛАНЕРИЗМ",
+     "q": "Когда лучше всего летать?",
+     "a": [
+      "Вы можете летать практически в любое время дня или года. Утром воздух более спокойный, и нет турбулентности, мешающей полету. Днем — особенно летом — термическая активность может усилиться, но это часто позволяет нам подняться выше. Если пассажиру становится некомфортно, можно легко выйти из восходящего потока и направиться к месту посадки. Даже зимой можно отлично летать в тандеме. Воздух в это время года обычно очень спокойный."
+     ]
+    },
+    {
+     "id": "23",
+     "category": "ПАРАПЛАНЕРИЗМ",
+     "q": "Нужно ли быть спортсменом, чтобы летать?",
+     "a": [
+      "Определенный уровень спортивной формы, безусловно, является преимуществом, но он не строго обязателен. Вам все же нужно быть в состоянии ходить. Часто нам приходится идти от 5 до 15 минут к непосредственному месту старта. О таких заболеваниях, как повышенное артериальное давление, нарушения кровообращения, проблемы с сердцем и т. д., необходимо сообщать при оформлении заказа."
+     ]
+    },
+    {
+     "id": "24",
+     "category": "ПАРАПЛАНЕРИЗМ",
+     "q": "Какой минимальный и максимальный вес допускается?",
+     "a": [
+      "Минимальный вес составляет 25 кг, максимальный — 110 кг. Пожалуйста, сообщите нам, если вы хотите записать на полет ребенка, чтобы мы могли подготовить подходящее снаряжение."
+     ]
+    },
+    {
+     "id": "25",
+     "category": "ПАРАПЛАНЕРИЗМ",
+     "q": "Какая погода подходит для полетов?",
+     "a": [
+      "Мы летаем круглый год (даже зимой), но только в условиях, обеспечивающих безопасный полет. Солнцу светить необязательно, можно летать и при облачном небе. Ветер не должен быть слишком сильным и должен дуть с правильного направления. Наши пилоты-тандемисты знают, когда можно летать, а когда нет. Тем не менее, погодные условия могут привести к изменению дат или мест полета, а при необходимости — и к отмене в короткие сроки."
+     ]
+    },
+    {
+     "id": "26",
+     "category": "ПАРАПЛАНЕРИЗМ",
+     "q": "С какого возраста можно летать?",
+     "a": [
+      "На данный момент никаких возрастных ограничений для пассажиров нет. В случае с несовершеннолетними требуется письменное согласие от обоих родителей."
+     ]
+    },
+    {
+     "id": "27",
+     "category": "ПАРАПЛАНЕРИЗМ",
+     "q": "Могу ли я доверять вашим пилотам-тандемистам и летать со спокойной душой?",
+     "a": [
+      "Наши пилоты-тандемисты обладают большим опытом как в одиночных, так и в тандемных полетах. Мы летаем очень часто и в самых разных погодных условиях. Безопасность — наш главный приоритет; мы не идем на компромиссы и поэтому иногда принимаем непопулярные решения, то есть отменяем полеты, если безопасность под вопросом."
+     ]
+    },
+    {
+     "id": "28",
+     "category": "ПАРАПЛАНЕРИЗМ",
+     "q": "Что мне нужно делать на старте?",
+     "a": [
+      "Ваш пилот-тандемист проведет подробный инструктаж перед стартом и сделает пробную пробежку. На старте очень важно не садиться, а бежать вместе с пилотом до тех пор, пока он не скажет, что теперь можно усесться в подвесную систему."
+     ]
+    }
+   ],
+   "about": [
+    {
+     "heading": "Как всё началось",
+     "paragraphs": [
+      "Проект Ride Gudauri родился из общего видения Гоги Огбаидзе и Аны Мтавришвили — двух профессионалов, объединенных страстью к горам и стремлением к совершенству. Вместе они задались целью создать компанию, которая передаст аутентичный дух Гудаури всему миру через безопасные, профессиональные и незабываемые горные приключения."
+     ]
+    },
+    {
+     "heading": "Откройте для себя Гудаури с теми, кто знает его лучше всех",
+     "paragraphs": [
+      "Что отличает Ride Gudauri, так это глубина знаний, стоящая за каждым приключением. Обладая десятилетиями комбинированного опыта в катании на лыжах, парапланеризме, горной безопасности и профессиональной деятельности, команда объединяет local-экспертизу и международно признанные стандарты.",
+      "Каждое мероприятие тщательно организовано и проводится сертифицированными профессионалами, которые из первых уст знают рельеф, погоду и условия Гудаури. Учитесь ли вы кататься на лыжах, исследуете ли горы на снегоходе, совершаете ли свой первый полет на параплане или присоединяетесь к летнему приключению, вы можете рассчитывать на персональное внимание, профессиональное руководство и особый акцент на безопасность.",
+      "Для Ride Gudauri приключение — это не просто адреналин, это создание ценного опыта, который позволяет гостям открывать для себя горы с уверенностью, азартом и настоящей связью с Гудаури."
+     ]
+    }
+   ],
+   "overview": {
+    "heading": "О Нас",
+    "paragraphs": [
+     "Откройте для себя лучшее в Гудаури вместе с Ride Gudauri — вашим надежным местным экспертом по горным приключениям в Грузии. Наши сертифицированные инструкторы по лыжам и сноуборду, опытные гиды и глубокое знание местности делают каждый момент безопасным, веселым и незабываемым.",
+     "Зимой покоряйте склоны с высококлассным снаряжением или отправляйтесь в тур на снегоходах по заснеженным вершинам Гудаури. С сменой сезона пересаживайтесь на квадроциклы, багги и рафтинг — и не упустите возможность полетать на параплане, доступную круглый год для тех, кто ищет захватывающие виды и чувство полной свободы."
+    ]
+   },
+   "terms": {
+    "title": "Правила и условия",
+    "blocks": [
+     "## Общие положения",
+     "Настоящие Условия распространяются на бронирования и услуги, предоставляемые Ride Gudauri, включая уроки катания на лыжах, приключенческие активности, транспортные услуги и другие сопутствующие услуги.",
+     "Оформляя бронирование или участвуя в активности, организованной Ride Gudauri, вы подтверждаете, что прочитали и принимаете настоящие Условия.",
+     "## Бронирование",
+     "Бронирование может быть оформлено через наш сайт, электронную почту, телефон, WhatsApp или другие утверждённые Ride Gudauri каналы связи.",
+     "Клиент обязан предоставить точную информацию, включая:",
+     "- Имя и контактные данные",
+     "- Количество участников",
+     "- Выбранную активность",
+     "- Желаемые дату и время",
+     "- Любую другую важную информацию, которая может повлиять на участие",
+     "Бронирование считается подтверждённым после подтверждения со стороны Ride Gudauri и оплаты соответствующего бронировочного сбора, если он предусмотрен.",
+     "## Бронирование и сборы",
+     "Размер бронировочного сбора зависит от выбранной услуги.",
+     "### Услуги лыжной школы",
+     "При бронировании услуг лыжной школы может взиматься бронировочный сбор в размере 20% от общей стоимости услуги.",
+     "### Другие активности",
+     "Для других активностей может применяться фиксированный бронировочный сбор в размере от 50 GEL до 200 GEL за одну сессию, в зависимости от выбранной активности или пакета.",
+     "Точная сумма будет сообщена клиенту до подтверждения бронирования.",
+     "## Невозвратные бронировочные сборы",
+     "Если иное не согласовано в письменной форме, бронировочные сборы не подлежат возврату.",
+     "Это распространяется на отмену или перенос бронирования по инициативе клиента, а также на случаи, когда проведение активности невозможно из-за погодных условий или иных обстоятельств, находящихся вне разумного контроля Ride Gudauri.",
+     "По возможности Ride Gudauri может предложить альтернативную дату, активность или другой вариант, в зависимости от доступности и обстоятельств.",
+     "## Оплата",
+     "Если иное не согласовано заранее, оставшаяся сумма оплачивается на месте встречи до начала активности.",
+     "Доступные способы оплаты могут включать:",
+     "- Наличные",
+     "- Кредитную карту",
+     "- Дебетовую карту",
+     "- Другие способы оплаты, согласованные с Ride Gudauri",
+     "Условия оплаты могут отличаться в зависимости от активности или поставщика услуги.",
+     "Рекомендуем уточнить детали оплаты у команды Ride Gudauri до участия.",
+     "## Отмена со стороны клиента",
+     "Клиент должен уведомить Ride Gudauri об отмене или необходимости изменения бронирования как можно раньше.",
+     "Запрос на отмену можно направить, используя контактные данные, указанные на нашем сайте.",
+     "Уже уплаченные бронировочные сборы, как правило, не подлежат возврату.",
+     "Если предварительная оплата не производилась, возврат денежных средств не применяется, однако раннее уведомление необходимо для эффективного управления бронированиями, инструкторами, оборудованием, транспортом и сторонними поставщиками.",
+     "## Перенос бронирования",
+     "Запросы на изменение даты или времени зависят от доступности.",
+     "Ride Gudauri приложит разумные усилия для удовлетворения запроса на перенос, однако не может гарантировать доступность желаемой даты или времени.",
+     "Дополнительные расходы могут применяться, если сторонний поставщик взимает плату за изменение бронирования.",
+     "## Погодные условия и условия проведения активности",
+     "Многие услуги Ride Gudauri зависят от погодных, снежных, дорожных, горных и других природных условий.",
+     "Активности могут быть изменены, задержаны, перенесены или отменены, если условия признаны небезопасными или неподходящими.",
+     "Решения по безопасности могут приниматься Ride Gudauri, инструкторами, гидами, пилотами, транспортными компаниями или другими квалифицированными поставщиками услуг.",
+     "Ride Gudauri не может гарантировать, что активность, зависящая от погодных условий, состоится точно по запланированному расписанию.",
+     "## Сторонние поставщики услуг",
+     "Некоторые активности, предлагаемые или организуемые Ride Gudauri, могут предоставляться независимыми сторонними компаниями или специалистами.",
+     "К ним могут относиться:",
+     "- Парапланеризм",
+     "- Катание на снегоходах",
+     "- Транспортные услуги",
+     "- Аренда оборудования",
+     "- Специализированные услуги гидов",
+     "- Другие приключенческие активности",
+     "Ride Gudauri может осуществлять координацию бронирования и коммуникацию между клиентом и соответствующим поставщиком.",
+     "Клиенту также может потребоваться принять дополнительные условия, правила безопасности или заявления об отказе от ответственности соответствующего поставщика услуг.",
+     "## Обязанности участников",
+     "Участники обязаны:",
+     "- Соблюдать инструкции сотрудников Ride Gudauri, инструкторов, гидов, пилотов, водителей и поставщиков услуг",
+     "- Вести себя ответственно и не создавать угрозу себе или окружающим",
+     "- Использовать защитное оборудование в соответствии с инструкциями",
+     "- Предоставлять точную информацию, имеющую отношение к безопасному участию",
+     "- Прибывать в согласованное место встречи вовремя",
+     "- Сообщать инструктору или поставщику услуг о любых обстоятельствах, способных повлиять на безопасность участия",
+     "Поставщик услуги вправе отказать в участии, если поведение участника создаёт угрозу безопасности или существенно мешает проведению активности.",
+     "## Безопасность",
+     "Приключенческие и горные активности связаны с определёнными рисками.",
+     "Ride Gudauri и наши партнёры принимают разумные меры предосторожности для безопасного предоставления услуг, однако участники признают, что такие активности, как лыжи, сноуборд, парапланеризм, снегоходы и другие горные активности, могут включать риски, которые невозможно полностью исключить.",
+     "Участники обязаны соблюдать все правила и инструкции по безопасности.",
+     "## Страхование",
+     "Всем гостям настоятельно рекомендуется иметь подходящую туристическую и спортивную страховку для тех активностей, в которых они участвуют.",
+     "Страхование должно соответствовать выбранной активности и, при необходимости, покрывать:",
+     "- Медицинское обслуживание",
+     "- Госпитализацию",
+     "- Горные спасательные работы",
+     "- Экстренную эвакуацию",
+     "- Эвакуацию вертолётом",
+     "- Расходы, связанные с несчастными случаями",
+     "- Отмену активности, если это предусмотрено полисом",
+     "Участники самостоятельно отвечают за наличие подходящего страхового покрытия.",
+     "## Фото- и видеосъёмка",
+     "Во время некоторых активностей Ride Gudauri могут производиться фотографии и видеозаписи.",
+     "Такие материалы могут время от времени использоваться в рекламных целях, включая публикацию на нашем сайте и в социальных сетях.",
+     "Участники, которые не хотят появляться на рекламных фото или видео, должны сообщить об этом сотрудникам Ride Gudauri до начала активности.",
+     "## Личные вещи",
+     "Участники самостоятельно несут ответственность за свои личные вещи во время активностей и транспортировки.",
+     "Ride Gudauri не несёт ответственности за потерянное, украденное или повреждённое имущество, кроме случаев, когда такая ответственность не может быть исключена в соответствии с законом.",
+     "## Изменения в услугах",
+     "Ride Gudauri может вносить разумные изменения в расписание, место встречи, инструктора, транспортные условия, маршрут или поставщика услуги, если это необходимо по операционным причинам, из-за погодных условий, безопасности или доступности.",
+     "В случае существенных изменений мы приложим разумные усилия, чтобы уведомить клиента.",
+     "## Ограничение ответственности",
+     "Ride Gudauri приложит разумные усилия для предоставления услуг в соответствии с их описанием.",
+     "Однако Ride Gudauri не несёт ответственности за задержки, отмены, перебои или изменения, вызванные обстоятельствами вне нашего разумного контроля, включая:",
+     "- Суровые погодные условия",
+     "- Небезопасные горные условия",
+     "- Закрытие дорог",
+     "- Нарушение транспортного сообщения",
+     "- Государственные ограничения",
+     "- Природные явления",
+     "- Проблемы с оборудованием или инфраструктурой вне нашего контроля",
+     "- Действия или решения независимых поставщиков услуг",
+     "Ничто в настоящих Условиях не исключает ответственность в случаях, когда её исключение запрещено применимым законодательством.",
+     "## Конфиденциальность",
+     "Персональные данные, полученные при бронировании или в процессе коммуникации, обрабатываются в соответствии с Политикой конфиденциальности Ride Gudauri.",
+     "Информация может передаваться инструкторам, транспортным компаниям, организаторам активностей, платёжным сервисам и другим партнёрам, когда это необходимо для предоставления заказанной услуги.",
+     "## Изменения в Условиях",
+     "Ride Gudauri может время от времени обновлять настоящие Условия.",
+     "Актуальная версия будет опубликована на нашем сайте.",
+     "Для конкретного бронирования обычно применяются Условия, действовавшие на момент подтверждения бронирования, если иное не предусмотрено законодательством.",
+     "## Контактная информация",
+     "По вопросам бронирования, отмены или настоящих Условий свяжитесь с Ride Gudauri:",
+     "Email: info@ridegudauri.com",
+     "Телефон: +995 591 144 114",
+     "Оформляя бронирование или участвуя в услуге Ride Gudauri, вы подтверждаете, что прочитали, поняли и приняли настоящие Условия."
+    ]
+   },
+   "privacy": {
+    "title": "Политика конфиденциальности",
+    "blocks": [
+     "## Цель",
+     "В Ride Gudauri мы ценим вашу конфиденциальность и стремимся защищать вашу персональную информацию. Настоящая Политика конфиденциальности объясняет, как мы собираем, используем, храним и защищаем персональные данные посетителей нашего сайта и клиентов.",
+     "Используя наш сайт или услуги, вы подтверждаете, что ознакомились с принципами, описанными в настоящей Политике конфиденциальности. Мы можем время от времени обновлять данную политику и рекомендуем периодически проверять её актуальную версию.",
+     "## Определения",
+     "- Персональные данные — любая информация, относящаяся к идентифицированному или идентифицируемому физическому лицу, включая имя, адрес электронной почты, номер телефона, местоположение и другую информацию.",
+     "- Обработка данных — любые действия с персональными данными, включая сбор, хранение, использование, передачу или удаление.",
+     "- Субъект данных / Пользователь — физическое лицо, персональные данные которого обрабатываются.",
+     "- Согласие — добровольно данное разрешение на обработку персональных данных для определённых целей.",
+     "- Контролёр данных — Ride Gudauri как организация, определяющая цели и способы обработки персональных данных.",
+     "- Третья сторона — любое лицо или организация, кроме пользователя, Ride Gudauri или уполномоченного поставщика услуг.",
+     "## Какие данные мы собираем",
+     "При использовании нашего сайта, обращении к нам или оформлении бронирования мы можем собирать следующую информацию:",
+     "- Имя",
+     "- Адрес электронной почты",
+     "- Номер телефона",
+     "- Данные бронирования",
+     "- Предпочтения по активности",
+     "- Количество участников",
+     "- Желаемые даты предоставления услуги",
+     "- Историю переписки по электронной почте, WhatsApp или другим каналам связи",
+     "- Информацию об использовании сайта, собираемую с помощью файлов cookie и аналогичных технологий",
+     "- Платёжную информацию, если она необходима для обработки транзакции",
+     "Платёжные данные могут обрабатываться надёжными сторонними платёжными сервисами и могут не храниться непосредственно Ride Gudauri.",
+     "## Как мы используем вашу информацию",
+     "Мы можем использовать ваши персональные данные для следующих целей:",
+     "- Обработка и управление бронированиями",
+     "- Предоставление заказанных услуг",
+     "- Связь с вами по вопросам запросов, бронирований, изменений или деталей услуги",
+     "- Координация деятельности с инструкторами, транспортными компаниями, поставщиками оборудования или другими партнёрами",
+     "- Ведение клиентской и бронировочной документации",
+     "- Анализ статистики клиентов и улучшение качества услуг",
+     "- Отправка рекламных предложений и обновлений, если это разрешено и если вы не отказались от таких сообщений",
+     "- Соблюдение требований законодательства",
+     "- Предотвращение мошенничества, защита наших прав или разрешение споров",
+     "## Передача данных",
+     "Для предоставления наших услуг мы можем передавать необходимую персональную информацию доверенным третьим сторонам.",
+     "К ним могут относиться:",
+     "- Организаторы активностей",
+     "- Инструкторы по лыжам и сноуборду",
+     "- Поставщики услуг парапланеризма, снегоходов и других приключенческих активностей",
+     "- Транспортные компании",
+     "- Поставщики оборудования",
+     "- Платёжные сервисы",
+     "- Другие компании, участвующие в выполнении вашего бронирования",
+     "- Государственные или правоохранительные органы, если раскрытие информации требуется законом",
+     "В зависимости от услуги мы можем передавать такие данные, как ваше имя, номер телефона, адрес электронной почты, дата бронирования, количество участников или детали активности.",
+     "Мы ожидаем, что наши партнёры будут обрабатывать персональные данные безопасно и использовать их только для целей, для которых они были переданы.",
+     "Ride Gudauri не продаёт ваши персональные данные третьим лицам.",
+     "## Хранение и безопасность данных",
+     "Мы принимаем разумные административные и технические меры для защиты ваших персональных данных от несанкционированного доступа, раскрытия, изменения, утраты или неправомерного использования.",
+     "Персональные данные хранятся только столько времени, сколько это разумно необходимо для предоставления услуг, ведения бизнес-документации, разрешения споров или соблюдения требований законодательства.",
+     "## Ваши права",
+     "В зависимости от применимого законодательства вы можете иметь право:",
+     "- Запрашивать доступ к вашим персональным данным",
+     "- Требовать исправления неточной или неполной информации",
+     "- Требовать удаления персональных данных, если это применимо",
+     "- Возражать против определённых видов обработки данных или требовать их ограничения",
+     "- Отозвать своё согласие, если обработка основана на согласии",
+     "- Отказаться от маркетинговых сообщений",
+     "Для реализации этих прав свяжитесь с нами по адресу info@ridegudauri.com.",
+     "## Файлы cookie и онлайн-отслеживание",
+     "Наш сайт может использовать файлы cookie и аналогичные технологии для улучшения функциональности сайта, анализа поведения посетителей, анализа трафика и улучшения наших услуг.",
+     "Вы можете управлять файлами cookie или отключить их в настройках браузера. Отключение некоторых файлов cookie может повлиять на работу отдельных функций сайта.",
+     "## Маркетинговые сообщения",
+     "В случаях, предусмотренных законом, мы можем использовать ваши контактные данные для отправки рекламных предложений, новостей компании или информации об услугах Ride Gudauri.",
+     "Вы можете отказаться от получения маркетинговых сообщений в любое время, используя инструкции по отказу от рассылки или связавшись с нами.",
+     "## Фото- и видеосъёмка",
+     "Во время мероприятий Ride Gudauri могут производиться фото- и видеосъёмка.",
+     "Если такие материалы позволяют идентифицировать участника и предназначены для рекламного или маркетингового использования, участники могут заранее сообщить нашему персоналу, если они не хотят быть сфотографированы или представлены в рекламных материалах.",
+     "## Сторонние сервисы",
+     "Наш сайт или услуги могут включать сторонние платформы, платёжные сервисы, средства коммуникации, партнёров по бронированию или организаторов активностей.",
+     "Такие третьи стороны могут обрабатывать персональные данные в соответствии со своими собственными политиками конфиденциальности. Ride Gudauri не несёт ответственности за практики обработки данных независимых сторонних сервисов, находящихся вне нашего контроля.",
+     "## Изменения в Политике конфиденциальности",
+     "Мы можем время от времени обновлять настоящую Политику конфиденциальности в связи с изменениями в наших услугах, законодательстве или практике обработки данных.",
+     "Актуальная версия всегда будет опубликована на нашем сайте.",
+     "При необходимости о существенных изменениях мы также можем уведомить пользователей по электронной почте или через уведомление на сайте.",
+     "## Контактная информация",
+     "По вопросам, связанным с настоящей Политикой конфиденциальности или обработкой персональных данных, свяжитесь с нами:",
+     "Email: info@ridegudauri.com",
+     "Телефон: +995 591 144 114",
+     "Используя сайт и услуги Ride Gudauri, вы подтверждаете, что прочитали и поняли настоящую Политику конфиденциальности."
+    ]
+   },
+   "blog": [
+    {
+     "slug": "a-calm-flight-above-caucasus",
+     "title": "Спокойный полет над Кавказом",
+     "image": "/images/paragliding-tandem.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Есть много способов увидеть горы Гудаури, но мало что сравнится с видом на них с высоты птичьего полета.",
+     "body": [
+      "Есть много способов увидеть горы Гудаури, но мало что сравнится с видом на них с высоты птичьего полета.",
+      "Парапланеризм в Гудаури предлагает уникальную возможность полетать над Кавказскими горами и увидеть окружающие пейзажи с совершенно иного ракурса.",
+      "Окруженный заснеженными пиками, глубокими ущельями и широкими горными склонами, Гудаури стал одним из самых захватывающих мест в Грузии для полетов на параплане в тандеме.",
+      "### Что такое полет в тандеме?",
+      "Полет в тандеме позволяет пассажиру летать вместе с опытным пилотом.",
+      "Предварительный опыт не требуется. Перед взлетом пилот объясняет базовые правила и инструктаж по безопасности. Когда все готово, пассажир и пилот вместе стартуют с горы.",
+      "После взлета параплан поднимается над ландшафтом, открывая панорамные виды, которые невозможно увидеть с земли.",
+      "### Что делает Гудаури особенным?",
+      "Гудаури расположен высоко в горах Большого Кавказа и предоставляет впечатляющие условия для полетов. Во время полета вы сможете увидеть:",
+      "- Заснеженные горные вершины",
+      "- Горнолыжные трассы Гудаури",
+      "- Глубокие кавказские ущелья",
+      "- Военно-Грузинскую дорогу",
+      "- Окружающие горные деревни",
+      "Каждый полет уникален, так как высота, продолжительность и маршрут зависят от погоды и направления ветра.",
+      "### Страшно ли летать на параплане?",
+      "Волнение перед первым полетом — абсолютно естественное чувство.",
+      "Однако полет в тандеме оказывается удивительно спокойным, как только вы оказываетесь в воздухе. Вместо ощущения падения вы плавно парите в небе, пока параплан использует восходящие потоки воздуха.",
+      "Полет с опытным профессионалом позволяет вам полностью сосредоточиться на пейзажах и получать удовольствие.",
+      "### Приключение, которое останется в памяти",
+      "Приезжаете ли вы в Гудаури во время горнолыжного отпуска или специально ради горных приключений, полет на параплане предлагает уникальный способ открыть для себя Грузию.",
+      "Вид на Кавказ сверху — это то впечатление, которое останется с вами надолго после окончания поездки."
+     ]
+    },
+    {
+     "slug": "quad-bike-adventures-in-gudauri",
+     "title": "Квадротуры в Гудаури",
+     "image": "/images/quad-bikes.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Гудаури славится зимними видами спорта, но эти горы не менее впечатляюще выглядят и без снежного покрова. В теплое время года зеленые долины, горные дороги, открытые ландшафты и отдаленные тропы делают регион отличным местом для катания на квадроциклах. Сопровождаемый гидом тур на квадроциклах позволяет исследовать окрестности Гудаури, совмещая осмотр достопримечательностей с захватывающим оффроудом.",
+     "body": [
+      "### Исследуйте горы на четырех колесах",
+      "Гудаури славится зимними видами спорта, но эти горы не менее впечатляюще выглядят и без снежного покрова. В теплое время года зеленые долины, горные дороги, открытые ландшафты и отдаленные тропы делают регион отличным местом для катания на квадроциклах. Сопровождаемый гидом тур на квадроциклах позволяет исследовать окрестности Гудаури, совмещая осмотр достопримечательностей с захватывающим оффроудом.",
+      "### Что представляет собой тур на квадроциклах?",
+      "Квадроциклы (ATV) — это четырехколесные транспортные средства, предназначенные для езды по пересеченной местности. Перед началом приключения участники проходят базовый инструктаж по управлению газом, тормозом, рулением, посадкой и правилам безопасности. Затем группа следует за опытным гидом по запланированному маршруту.",
+      "### Откройте для себя Гудаури с новой стороны",
+      "Освобождаясь от зимнего снега, Гудаури раскрывается совершенно иначе. Маршруты для квадроциклов могут проходить через:",
+      "- Горные дороги",
+      "- Зеленые долины",
+      "- Открытые поля",
+      "- Живописные смотровые площадки",
+      "- Сельские пейзажи",
+      "- Горные панорамы Кавказа",
+      "Это отличный способ уехать дальше, чем можно пройти пешком, сохраняя при этом живую связь с окружающей природой.",
+      "### Подходит для любителей приключений",
+      "Наличие опыта вождения квадроцикла не обязательно. Новички могут быстро освоить управление, а опытные райдеры — насладиться пейзажами и сменяющимся рельефом. Маршрут и темп поездки всегда подбираются с учетом погодных условий и уровня группы.",
+      "### Гудаури за пределами зимнего сезона",
+      "Гудаури часто воспринимают исключительно как горнолыжный курорт, однако региону есть что предложить в любое время года. Катание на квадроциклах дает гостям отличную возможность исследовать горы весной, летом и осенью. Для всех, кто хочет объединить природу, экскурсии и активный отдых, квадротур станет прекрасным дополнением к поездке в Гудаури."
+     ]
+    },
+    {
+     "slug": "rafting-in-georgia",
+     "title": "Рафтинг в Грузии",
+     "image": "/images/rafting.webp",
+     "date": "2026-08-12",
+     "excerpt": "Грузия славится своими горами, но ее реки предлагают еще один увлекательный способ исследовать природные ландшафты страны. Рафтинг сочетает в себе приключения, командную работу и живописные виды во время спуска по горным рекам в окружении лесов, гор и ущелий. Для путешественников, ищущих активный отдых на свежем воздухе, рафтинг может стать одним из главных впечатлений от поездки в Грузию.",
+     "body": [
+      "### Откройте для себя бурные реки страны",
+      "Грузия славится своими горами, но ее реки предлагают еще один увлекательный способ исследовать природные ландшафты страны. Рафтинг сочетает в себе приключения, командную работу и живописные виды во время спуска по горным рекам в окружении лесов, гор и ущелий. Для путешественников, ищущих активный отдых на свежем воздухе, рафтинг может стать одним из главных впечатлений от поездки в Грузию.",
+      "### Как проходит сплав?",
+      "Перед спуском на воду участники получают снаряжение для обеспечения безопасности и проходят инструктаж от опытных гидов. Обычно сплав начинается с вводного занятия, охватывающего технику гребли, команды управления и правила поведения в различных ситуациях на воде. Когда все готовы, группа вместе с гидом выходит на маршрут. Во время сплава участники работают как единая команда, преодолевая различные участки реки.",
+      "### Нужен ли предварительный опыт?",
+      "Многие маршруты подходят для новичков, хотя условия и уровень сложности варьируются в зависимости от реки и времени года. Профессиональные гиды подбирают подходящие маршруты с учетом уровня воды и подготовки группы. Самое главное — внимательно слушать гида и следовать инструкциям по безопасности.",
+      "### Рафтинг — это командное приключение",
+      "Одно из главных преимуществ рафтинга заключается в том, что в процессе участвуют все. Друзья, семьи и коллеги могут слаженно работать вместе, получая яркие эмоции от активного отдыха. Между порогами и быстрыми участками реки часто бывают спокойные моменты, когда можно насладиться окружающими пейзажами Грузии.",
+      "### Когда доступен рафтинг?",
+      "Условия для рафтинга сильно зависят от уровня воды и погоды. Разные реки предлагают оптимальные условия в разное время года. Поскольку обстановка на реке может меняться, сплавы всегда организуются с учетом текущих условий безопасности. Для любителей приключений, приезжающих в Грузию, рафтинг — это отличный способ открыть для себя совершенно другую сторону страны."
+     ]
+    },
+    {
+     "slug": "ski-lessons-in-gudauri",
+     "title": "Уроки катания на лыжах в Гудаури",
+     "image": "/images/ski-lesson.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Гудаури — один из самых популярных горнолыжных курортов Грузии, предлагающий широкие трассы, прекрасные горные пейзажи и отличные условия как для новичков, так и для опытных лыжников. Встаете ли вы на лыжи впервые или хотите усовершенствовать свою технику, профессиональные уроки сделают ваше время в горах более безопасным, простым и приятным.",
+     "body": [
+      "### Научитесь кататься на лыжах с уверенностью",
+      "Гудаури — один из самых популярных горнолыжных курортов Грузии, предлагающий широкие трассы, прекрасные горные пейзажи и отличные условия как для новичков, так и для опытных лыжников. Встаете ли вы на лыжи впервые или хотите усовершенствовать свою технику, профессиональные уроки сделают ваше время в горах более безопасным, простым и приятным.",
+      "### Зачем брать уроки катания на лыжах в Гудаури?",
+      "Обучение с квалифицированным инструктором помогает с самого начала сформировать правильные привычки. Вместо того чтобы самостоятельно пытаться разобраться с балансом, поворотами и торможением, инструктор направит вас шаг за шагом и адаптирует занятие под ваш уровень. Новички обычно начинают с базовых навыков обращения со снаряжением, правильного положения тела, остановки и контролируемых поворотов. По мере роста вашей уверенности уроки могут переходить на более крутые склоны, параллельное катание, технику карвинга и более продвинутые навыки.",
+      "### Уроки для любого уровня",
+      "Уроки катания предназначены не только для абсолютных новичков. Лыжники среднего и продвинутого уровня также могут получить большую пользу от профессионального тренинга. Инструктор поможет вам улучшить:",
+      "- Баланс и положение тела",
+      "- Технику поворотов",
+      "- Контроль скорости",
+      "- Карвинг",
+      "- Уверенность на крутых склонах",
+      "- Общую безопасность в горах",
+      "Индивидуальные занятия особенно эффективны, так как инструктор может полностью сосредоточиться на вашей технике и прогрессе.",
+      "### Открывайте Гудаури безопасно",
+      "Гудаури предлагает невероятные условия для катания, однако погодные условия в горах могут быстро меняться. Понимание правил поведения на трассе, особенностей погоды и техник безопасного катания — важная часть становления уверенного лыжника. Благодаря профессиональному обучению вы сможете меньше беспокоиться о технике и больше наслаждаться горами. Приезжаете ли вы в Гудаури на выходные или в полноценный горнолыжный отпуск, урок катания на лыжах — один из лучших способов провести время на склонах с максимальной пользой."
+     ]
+    },
+    {
+     "slug": "snowmobiling-in-gudauri",
+     "title": "Катание на снегоходах в Гудаури",
+     "image": "/images/snowmobile.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Катание на лыжах, возможно, является наиболее популярным видом активного отдыха в Гудаури, но это далеко не единственный способ исследовать заснеженные Кавказские горы. Катание на снегоходах предлагает захватывающую возможность путешествовать по зимним пейзажам, горным тропам и заснеженным окрестностям, ощущая всю мощность и свободу этого транспорта.",
+     "body": [
+      "### Исследуйте горы за пределами горнолыжных трасс",
+      "Катание на лыжах, возможно, является наиболее популярным видом активного отдыха в Гудаури, но это далеко не единственный способ исследовать заснеженные Кавказские горы. Катание на снегоходах предлагает захватывающую возможность путешествовать по зимним пейзажам, горным тропам и заснеженным окрестностям, ощущая всю мощность и свободу этого транспорта.",
+      "### Почему стоит попробовать катание на снегоходах в Гудаури?",
+      "Снегоходы могут передвигаться по местности, исследование которой пешком заняло бы гораздо больше времени. В зависимости от погоды и состояния снега, прогулка на снегоходе может провести вас по районам, удаленным от самых загруженных горнолыжных трасс, даря иной взгляд на горный пейзаж Гудаури. Это сочетает в себе осмотр достопримечательностей и приключение, что делает его отличным занятием для гостей, ищущих что-то новое во время зимнего отдыха.",
+      "### Нужен ли вам опыт?",
+      "Для программ, рассчитанных на новичков, предварительный опыт, как правило, не требуется. Перед началом участники получают инструктаж по управлению снегоходом, поддержанию безопасной скорости, торможению, поворотам и следованию за гидом. Внимательно слушать своего гида особенно важно, так как снежные условия и видимость в горах могут меняться.",
+      "### Безопасность прежде всего",
+      "К горной среде всегда следует относиться с уважением. Маршруты и условия работы могут зависеть от:",
+      "- Глубины снега",
+      "- Видимости",
+      "- Погоды",
+      "- Ветра",
+      "- Состояния рельефа",
+      "Профессиональное сопровождение помогает гарантировать, что маршрут соответствует текущим условиям.",
+      "### Добавьте разнообразия в ваш отдых в Гудаури",
+      "Катание на снегоходах — отличное дополнение к поездке на лыжах или сноуборде, особенно когда хочется провести время вдали от подъемников. Красивые зимние пейзажи и величественные Кавказские горы вокруг делают катание на снегоходах в Гудаури захватывающим сочетанием исследований и приключений."
+     ]
+    },
+    {
+     "slug": "travel-comfortably-with-ride-gudauri",
+     "title": "Путешествуйте с комфортом вместе с Ride Gudauri",
+     "image": "/images/transfer.jpg",
+     "date": "2026-08-12",
+     "excerpt": "Путешествие по Грузии — это незабываемый опыт, однако перемещение между аэропортами, горными курортами, городами и достопримечательностями иногда может вызывать сложности. Надежный частный трансфер позволяет наслаждаться поездкой, не беспокоясь о навигации, расписании транспорта или дорожных условиях.",
+     "body": [
+      "Путешествие по Грузии — это незабываемый опыт, однако перемещение между аэропортами, горными курортами, городами и достопримечательностями иногда может вызывать сложности. Надежный частный трансфер позволяет наслаждаться поездкой, не беспокоясь о навигации, расписании транспорта или дорожных условиях.",
+      "Ride Gudauri предлагает комфортабельные трансферы и туры, разработанные для путешественников, направляющихся в Гудаури и по другим маршрутам Грузии.",
+      "### Трансферы из аэропорта в Гудаури",
+      "Для многих путешественников приключение начинается в Международном аэропорту Тбилиси или Кутаиси. Частный трансфер — это удобный способ добраться напрямую из аэропорта в Гудаури. Вместо стыковок и поиска нескольких видов транспорта вы можете с комфортом доехать со всем багажом прямо до вашего отеля. В зимний период наличие опытного водителя особенно важно, так как на горные дороги часто влияют снегопады и изменчивая погода.",
+      "### Больше, чем просто поездка",
+      "Частный трансфер может стать яркой частью вашего путешествия по Грузии. В Грузии есть множество мест, заслуживающих внимания: исторические города, горные деревни, монастыри, природные ландшафты и традиционные винодельческие регионы. В зависимости от вашего маршрута, индивидуальные туры дают свободу исследовать страну в удобном для вас темпе.",
+      "Комфортные поездки для индивидуальных туристов и групп Трансферы отлично подходят для:",
+      "- Соло-путешественников",
+      "- Пар",
+      "- Семей",
+      "- Компаний друзей",
+      "- Групп лыжников и сноубордистов",
+      "- Любителей активного отдыха",
+      "Наличие персонального транспорта также значительно облегчает перевозку горнолыжного снаряжения, крупного багажа и экипировки.",
+      "### Наслаждайтесь дорогой",
+      "Грузия — страна, где сама дорога часто так же прекрасна, как и пункт назначения. Путь в Гудаури проходит через живописные долины, исторические памятники и величественные горные пейзажи. Выбирая профессиональный трансфер, вы можете расслабиться и наслаждаться видами, пока опытный водитель заботится о дороге."
+     ]
+    }
+   ]
+  }
+ }
+}
