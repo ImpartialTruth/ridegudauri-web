@@ -1,7 +1,7 @@
-/** Ride Gudauri logo (from the original SVG), recoloured via currentColor. */
+/** Ride Gudauri logo (from the original SVG), recoloured to the brand coral. */
 export default function Logo({ className = "" }: { className?: string }) {
   return (
-    <svg viewBox="0 0 566.93 425.42" className={className} fill="currentColor" role="img" aria-label="Ride Gudauri">
+    <svg viewBox="0 0 566.93 425.42" className={className} fill="#E65844" role="img" aria-label="Ride Gudauri">
       <path d="M549.28,234.29,448.11,110.86a53.13,53.13,0,0,0-81.78-.5L275,219.1l31.6,16.45A1.27,1.27,0,0,1,306,238H263.53a50.82,50.82,0,0,0-39,18.22l-81.07,97a15.7,15.7,0,0,1-12,5.62H30.73A15.68,15.68,0,0,1,19,332.74l128.08-145a41.16,41.16,0,0,1,49.86-9.26l15,7.83,139.74-156a36.81,36.81,0,0,1,57.25,3L552.49,231.81a2,2,0,0,1-3.21,2.48" />
       <path d="M416.38,288.25h-6.93v11.94H396.74V255.25h20.54c12.27,0,20,6.36,20,16.63a14.92,14.920,0,0,1-8.8,14.19l9.7,14.12H424.54Zm.13-23h-7.060v13.16h7.06c5.27,0,7.9-2.44,7.9-6.55s-2.63-6.61-7.9-6.61" />
       <rect x="444.25" y="255.25" width="12.71" height="44.94" />
